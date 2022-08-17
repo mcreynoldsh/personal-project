@@ -20,7 +20,7 @@ const ChatPage = (props) => {
 
 
     const setUp = async () => {
-       
+
         const newClient = new StreamChat('y28mubhduuvm');
         let walker = await props.getUserById(walkerID)
         let user = await props.getUser()
@@ -57,6 +57,8 @@ const ChatPage = (props) => {
         });
         setChannel(newChannel)
     }
+
+
     useEffect(() => {
         setUp()
         return () => {
@@ -67,11 +69,11 @@ const ChatPage = (props) => {
 
     if (!client) return null;
     if (!channel) return null;
-    
+
 
     return (
         <Chat client={client}>
-    
+
             <Channel channel={channel}>
                 <Window>
                     <ChannelHeader />

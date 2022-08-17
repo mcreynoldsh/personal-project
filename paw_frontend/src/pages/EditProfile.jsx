@@ -26,7 +26,7 @@ function EditProfile(props) {
             'firstName': event.target[1].value,
             'lastName': event.target[2].value,
             'address': event.target[3].value,
-            'zip':event.target[4].value,
+            'zip': event.target[4].value,
             'bio': event.target[5].value,
             'rate': rate
 

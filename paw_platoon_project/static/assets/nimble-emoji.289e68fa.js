@@ -1,2 +1,0 @@
-import{r as f}from"./nimble-emoji.20c59b75.js";function l(t,n){for(var o=0;o<n.length;o++){const e=n[o];if(typeof e!="string"&&!Array.isArray(e)){for(const r in e)if(r!=="default"&&!(r in t)){const i=Object.getOwnPropertyDescriptor(e,r);i&&Object.defineProperty(t,r,i.get?i:{enumerable:!0,get:()=>e[r]})}}}return Object.freeze(Object.defineProperty(t,Symbol.toStringTag,{value:"Module"}))}var a=f();const c=l({__proto__:null,default:a},[a]);export{c as n};
-//# sourceMappingURL=nimble-emoji.289e68fa.js.map

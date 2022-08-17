@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react'
 import { useParams } from 'react-router-dom'
 import axios from 'axios'
-import {Container, Row, Col, Form, Button} from 'react-bootstrap'
+import { Container, Row, Col } from 'react-bootstrap'
 import MyStopwatch from '../components/MyStopwatch'
 import WalkForm from '../components/WalkForm'
 
@@ -11,7 +11,7 @@ function WalkPage(props) {
     const [end, setEnd] = useState(false)
     const [time, setTime] = useState(null)
     const [errorMessage, setErrorMessage] = useState("")
-   
+
 
     const getWalkByID = async () => {
         let response = await axios.get(`/getwalk/${walkID}`)
@@ -23,7 +23,7 @@ function WalkPage(props) {
         getWalkByID()
     }, [])
 
-   
+
 
     return (
         <Container>
@@ -36,26 +36,26 @@ function WalkPage(props) {
                     </div>}
                 </Col>
                 <Col>
-                    {walk && <MyStopwatch setTime= {setTime} setEnd = {setEnd} />}
+                    {walk && <MyStopwatch setTime={setTime} setEnd={setEnd} />}
                 </Col>
                 <Col></Col>
             </Row>
             <Row>
                 <Col></Col>
                 <Col>
-                    {end && <WalkForm time = {time} setErrorMessage={setErrorMessage} walkID={walkID}/>}
+                    {end && <WalkForm time={time} setErrorMessage={setErrorMessage} walkID={walkID} />}
                 </Col>
                 <Col></Col>
             </Row>
             <Row className='pt-2'>
-            <Col></Col>
-            <Col>
-                <div id='messageDiv'>
-                    {errorMessage}
-                </div>
-            </Col>
-            <Col></Col>
-        </Row>
+                <Col></Col>
+                <Col>
+                    <div id='messageDiv'>
+                        {errorMessage}
+                    </div>
+                </Col>
+                <Col></Col>
+            </Row>
         </Container>
     )
 }

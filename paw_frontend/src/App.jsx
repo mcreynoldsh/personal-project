@@ -1,11 +1,7 @@
 import React, { useState, useEffect } from 'react';
-import { useNavigate } from 'react-router-dom'
-import { Container, Row, Col, Button } from 'react-bootstrap'
-import MapContainer from './components/MapContainer';
 import NavBar from './components/NavBar';
-import { HashRouter as Router, Routes, Route, Link, Navigate } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route, } from 'react-router-dom';
 import axios from 'axios'
-import HomePage from './pages/HomePage';
 import Signup from './pages/Signup';
 import Login from './pages/Login';
 import DashboardPage from './pages/DashboardPage'
@@ -26,10 +22,8 @@ import EditProfile from './pages/EditProfile';
 const getCSRFToken = () => {
   let csrfToken
 
-  // the browser's cookies for this page are all in one string, separated by semi-colons
   const cookies = document.cookie.split(';')
   for (let cookie of cookies) {
-    // individual cookies have their key and value separated by an equal sign
     const crumbs = cookie.split('=')
     if (crumbs[0].trim() === 'csrftoken') {
       csrfToken = crumbs[1]
@@ -44,7 +38,6 @@ function App() {
   const [isProvider, setIsProvider] = useState(null)
   const [pets, setPets] = useState(null)
   const [bases, setBases] = useState(null)
-
 
 
   const checkPets = async () => {
@@ -118,7 +111,7 @@ function App() {
           <Route path='/login' element={<Login checkUser={checkUser} setProvider={setProvider} />} />
           <Route path='/addpet' element={<AddPet user={user} />} />
           <Route path='/addbase' element={<AddBase user={user} />} />
-          <Route path='/connectpal' element={<ConnectPal user={user} />} />
+          <Route path='/connectpal' element={<ConnectPal />} />
           <Route path='/providers/:userID' element={<ProviderPage getUserById={getUserById} />} />
           <Route path='/chat/:walkerID' element={<ChatPage getUser={checkUser} getUserById={getUserById} />} />
           <Route path='/schedulewalk' element={<ScheduleWalk getUser={checkUser} pets={pets} getUserById={getUserById} />} />
@@ -126,8 +119,8 @@ function App() {
           <Route path='/walk/:walkID/view' element={<WalkDetail />} />
           <Route path='/pet/:petID/view' element={<PetDetail />} />
           <Route path='/pet/:petID/edit' element={<PetEdit />} />
-          <Route path='/user/:userID/view' element={<ProfilePage user={user}/>} />
-          <Route path='/user/:userID/edit' element={<EditProfile user={user}/>} />
+          <Route path='/user/:userID/view' element={<ProfilePage user={user} />} />
+          <Route path='/user/:userID/edit' element={<EditProfile user={user} />} />
         </Routes>
       </Router>
     </div>

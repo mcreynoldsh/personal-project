@@ -8,21 +8,21 @@ function UserDashboard({ user, pets, bases }) {
     const [completedWalks, setCompletedWalks] = useState(null)
 
     const getWalker = async () => {
-        const check_provider = await axios.get('/provider/get')
-        let check_walker = check_provider && check_provider.data
-        setWalker(check_walker)
+        const checkProvider = await axios.get('/provider/get')
+        let checkWalker = checkProvider && checkProvider.data
+        setWalker(checkWalker)
     }
 
     const getPetWalks = async () => {
-        const check_walks = await axios.get('/getpetwalks')
-        let upcoming_walks = check_walks && check_walks.data
-        setWalks(upcoming_walks)
+        const checkWalks = await axios.get('/getpetwalks')
+        let upcomingWalks = checkWalks && checkWalks.data
+        setWalks(upcomingWalks)
     }
 
     const getCompletedWalks = async () => {
-        const check_walks = await axios.get('/getcompletedwalks')
-        let completed_walks = check_walks && check_walks.data
-        setCompletedWalks(completed_walks)
+        const checkWalks = await axios.get('/getcompletedwalks')
+        let completedWalks = checkWalks && checkWalks.data
+        setCompletedWalks(completedWalks)
     }
 
     useEffect(() => {
@@ -34,7 +34,7 @@ function UserDashboard({ user, pets, bases }) {
             <Row className='space'>
                 <Col></Col>
                 <Col>
-                    {user && <div><h2>{user.first_name}'s Dashboard</h2><a href={`#/user/${user.id}/view`}>View Profile</a></div>}
+                    {user && <div className='text-center'><h2>{user.first_name}'s Dashboard</h2><a href={`#/user/${user.id}/view`}>View Profile</a></div>}
                 </Col>
                 <Col></Col>
             </Row>
@@ -65,7 +65,7 @@ function UserDashboard({ user, pets, bases }) {
             </Row>
             <Row>
                 <Col>
-                    <hr/>
+                    <hr />
                     <h4>Upcoming Walks:</h4>
                     <hr />
                     {walks && walks.map((walk) => (<div><h5>{walk.pets.map((pet) => (<span>{pet} </span>))}</h5>

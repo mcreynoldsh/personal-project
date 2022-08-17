@@ -20,30 +20,30 @@ function ScheduleWalk(props) {
         console.log(check_walker)
         setWalker(check_walker)
     }
-    const handleSubmit = (event) => { 
+    const handleSubmit = (event) => {
         event.preventDefault();
         let petChoice = []
         let date = startDate.toLocaleDateString()
         let time = startDate.toLocaleTimeString()
         console.log(date, time)
-        for(let i = 0; i<event.target.length-1;i++){
-            if(event.target[i].checked){
+        for (let i = 0; i < event.target.length - 1; i++) {
+            if (event.target[i].checked) {
                 petChoice.push(event.target[i].id)
             }
         }
-       axios.post('/schedulewalk',{
-           'pets': petChoice,
-           'date': date,
-           'walker': walker,
-           'time':time
-       }).then((response) => {
-        if(response.data == 'okay'){
-            navigate("/")
-            window.location.reload()
-        }
-        else{
-            console.log(response)
-        }
+        axios.post('/schedulewalk', {
+            'pets': petChoice,
+            'date': date,
+            'walker': walker,
+            'time': time
+        }).then((response) => {
+            if (response.data == 'okay') {
+                navigate("/")
+                window.location.reload()
+            }
+            else {
+                console.log(response)
+            }
         })
     }
 

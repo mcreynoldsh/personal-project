@@ -1,6 +1,6 @@
 import React from 'react';
 import { useStopwatch } from 'react-timer-hook';
-import {Button} from 'react-bootstrap'
+import { Button } from 'react-bootstrap'
 
 function MyStopwatch(props) {
   const {
@@ -13,10 +13,10 @@ function MyStopwatch(props) {
   } = useStopwatch({ autoStart: false });
 
   const endWalk = (event) => {
-      event.preventDefault()
-      pause()
-      props.setTime(`${hours}:${minutes}:${seconds}`)
-      props.setEnd(true)
+    event.preventDefault()
+    pause()
+    props.setTime(`${hours}:${minutes}:${seconds}`)
+    props.setEnd(true)
   }
 
   const beginWalk = (event) => {
@@ -25,9 +25,9 @@ function MyStopwatch(props) {
     props.setEnd(false)
   }
   return (
-    <div style={{textAlign: 'center'}}>
+    <div style={{ textAlign: 'center' }}>
       <p>Walk Timer</p>
-      <div style={{fontSize: '100px'}}>
+      <div style={{ fontSize: '100px' }}>
         <span>{hours}</span>:<span>{minutes}</span>:<span>{seconds}</span>
       </div>
       <p>{isRunning ? 'Walking' : 'Walking Paused'}</p>

@@ -1,29 +1,32 @@
 import UserDashboard from "../components/UserDashboard";
 import ProviderDashboard from "../components/ProviderDashboard";
-import {Link , useNavigate} from 'react-router-dom'
+import LoadingSpinner from "../components/LoadingSpinner";
 
 
-function DashboardPage({user, isProvider, logOut, pets, bases}){
-    let navigate = useNavigate()
-    if(!user){
-        navigate('/login', {replace:true})
-    }
-
-    else if(isProvider){
-        return(
+function DashboardPage({ user, isProvider, logOut, pets, bases }) {
+    if (!user) {
+        return (
             <div>
-                <ProviderDashboard user = {user} isProvider = {isProvider} logout= {logOut} bases = {bases}/>
+                <LoadingSpinner />
+            </div>
+        )
+
+    }
+    else if (isProvider) {
+        return (
+            <div>
+                <ProviderDashboard user={user} bases={bases} />
             </div>
         )
     }
-    else{
-        return(
+    else {
+        return (
             <div>
-                <UserDashboard user = {user} isProvider = {isProvider} logout= {logOut} pets= {pets} bases = {bases}/>
+                <UserDashboard user={user} pets={pets} bases={bases} />
             </div>
         )
     }
-    
+
 }
 
 export default DashboardPage;

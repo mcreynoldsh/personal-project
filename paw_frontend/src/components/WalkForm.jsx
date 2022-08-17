@@ -10,25 +10,25 @@ function WalkForm(props) {
 
     const handleSubmit = (event) => {
         event.preventDefault()
-        for(let i = 0; i < 2 ; i++){
-            if(event.target[i].value == ""){
+        for (let i = 0; i < 2; i++) {
+            if (event.target[i].value == "") {
                 props.setErrorMessage(`Must enter a ${event.target[i].placeholder}!!`)
                 return
             }
         }
-    
+
         axios.put('/completewalk', {
             'walk_id': props.walkID,
             'walk_length': event.target[0].value,
-            'notes':event.target[1].value,
+            'notes': event.target[1].value,
             'walk_time': event.target[2].placeholder,
-          }).then((response) => {
-              if(response.data == 'success'){
-                navigate("/", {replace:true})
-              }
-              else{
-                  props.setErrorMessage(`${response.data}`)
-              }
+        }).then((response) => {
+            if (response.data == 'success') {
+                navigate("/", { replace: true })
+            }
+            else {
+                props.setErrorMessage(`${response.data}`)
+            }
         })
     }
 
