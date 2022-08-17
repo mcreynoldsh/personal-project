@@ -1,0 +1,4645 @@
+[{
+  "name": "Allen Stagefield AL",
+  "location": {
+    "lat": 31.2309993833,
+    "lng": -85.6506347178
+  }
+}, {
+  "name": "Louisville Stagefield AL",
+  "location": {
+    "lat": 31.8157331822,
+    "lng": -85.6497984957
+  }
+}, {
+  "name": "White Sands Missile Range NM",
+  "location": {
+    "lat": 33.1594636742,
+    "lng": -106.425696182
+  }
+}, {
+  "name": "Fort Monroe",
+  "location": {
+    "lat": 37.0130203962,
+    "lng": -76.3043760544
+  }
+}, {
+  "name": "MCB Camp Smith",
+  "location": {
+    "lat": 21.3866284869,
+    "lng": -157.905641308
+  }
+}, {
+  "name": "MC Trng Area Bellows",
+  "location": {
+    "lat": 21.3621462703,
+    "lng": -157.718266082
+  }
+}, {
+  "name": "Glenview",
+  "location": {
+    "lat": 42.0917332083,
+    "lng": -87.836545042
+  }
+}, {
+  "name": "ALF Orange",
+  "location": {
+    "lat": 27.8965304593,
+    "lng": -98.0434307225
+  }
+}, {
+  "name": "McClellan AFB",
+  "location": {
+    "lat": 38.6628404569,
+    "lng": -121.403205934
+  }
+}, {
+  "name": "Saylor Creek Air Force Range",
+  "location": {
+    "lat": 42.7402329675,
+    "lng": -115.563336812
+  }
+}, {
+  "name": "Laughlin AFB",
+  "location": {
+    "lat": 29.3567318395,
+    "lng": -100.782932919
+  }
+}, {
+  "name": "Buckley AFB",
+  "location": {
+    "lat": 39.7066728959,
+    "lng": -104.757676168
+  }
+}, {
+  "name": "Tyndall AFB",
+  "location": {
+    "lat": 30.0454712012,
+    "lng": -85.5513688862
+  }
+}, {
+  "name": "Columbus Auxiliary Airfield",
+  "location": {
+    "lat": 32.9398358551,
+    "lng": -88.5791426256
+  }
+}, {
+  "name": "Goodfellow AFB",
+  "location": {
+    "lat": 31.4321781557,
+    "lng": -100.404389232
+  }
+}, {
+  "name": "Fort Richardson",
+  "location": {
+    "lat": 61.2656445617,
+    "lng": -149.641025468
+  }
+}, {
+  "name": "Birch Lake Recreation Annex",
+  "location": {
+    "lat": 64.3175377667,
+    "lng": -146.646980929
+  }
+}, {
+  "name": "Louisville IAP-Standiford FL Site 1",
+  "location": {
+    "lat": 38.1779889015,
+    "lng": -85.7237952525
+  }
+}, {
+  "name": "Kelly AFB",
+  "location": {
+    "lat": 29.3820160313,
+    "lng": -98.5645372905
+  }
+}, {
+  "name": "NG Camp Joseph T Robinson",
+  "location": {
+    "lat": 34.9000362492,
+    "lng": -92.3068019391
+  }
+}, {
+  "name": "NG Camp Ashland",
+  "location": {
+    "lat": 41.0800682176,
+    "lng": -96.3363620056
+  }
+}, {
+  "name": "NG Bethel ARM FMS",
+  "location": {
+    "lat": 60.7955330346,
+    "lng": -161.767465275
+  }
+}, {
+  "name": "NG GUARNG Barrigada Complex",
+  "location": {
+    "lat": 13.4740733886,
+    "lng": 144.809884745
+  }
+}, {
+  "name": "NG Volkstone",
+  "location": {
+    "lat": 39.4547971565,
+    "lng": -79.6692506335
+  }
+}, {
+  "name": "NAVBASE Coronado",
+  "location": {
+    "lat": 32.7000190451,
+    "lng": -117.207088939
+  }
+}, {
+  "name": "Finegayan South",
+  "location": {
+    "lat": 13.5499832925,
+    "lng": 144.830853077
+  }
+}, {
+  "name": "Grand Forks Defense Fuel Support Point",
+  "location": {
+    "lat": 47.9486816236,
+    "lng": -97.0860532381
+  }
+}, {
+  "name": "CSO Barbers Point HI",
+  "location": {
+    "lat": 21.312229301,
+    "lng": -158.066092323
+  }
+}, {
+  "name": "Fort Bliss",
+  "location": {
+    "lat": 32.26208341,
+    "lng": -106.075404444
+  }
+}, {
+  "name": "Jim Creek",
+  "location": {
+    "lat": 48.1997770937,
+    "lng": -121.925681299
+  }
+}, {
+  "name": "Pueblo Chemical Depot",
+  "location": {
+    "lat": 38.3171489216,
+    "lng": -104.33242089
+  }
+}, {
+  "name": "Yuma Proving Ground",
+  "location": {
+    "lat": 33.1053210003,
+    "lng": -114.213605815
+  }
+}, {
+  "name": "NTC and Fort Irwin",
+  "location": {
+    "lat": 35.3743268559,
+    "lng": -116.633388332
+  }
+}, {
+  "name": "Hawthorne Army Depot",
+  "location": {
+    "lat": 38.5411518559,
+    "lng": -118.654781649
+  }
+}, {
+  "name": "Lake City AAP",
+  "location": {
+    "lat": 39.0968504854,
+    "lng": -94.2501544756
+  }
+}, {
+  "name": "Point of Marsh Target",
+  "location": {
+    "lat": 35.0110394592,
+    "lng": -76.4580795598
+  }
+}, {
+  "name": "MCLB Barstow",
+  "location": {
+    "lat": 34.8595418908,
+    "lng": -116.94453311
+  }
+}, {
+  "name": "NAS Oceana VA",
+  "location": {
+    "lat": 36.8137764139,
+    "lng": -76.0309744664
+  }
+}, {
+  "name": "Tenjo Vista",
+  "location": {
+    "lat": 13.4330059068,
+    "lng": 144.687514491
+  }
+}, {
+  "name": "Offut AFB",
+  "location": {
+    "lat": 41.1180005456,
+    "lng": -95.9064350192
+  }
+}, {
+  "name": "Cavalier Asn",
+  "location": {
+    "lat": 48.7245309314,
+    "lng": -97.9030701569
+  }
+}, {
+  "name": "New Boston Air Station",
+  "location": {
+    "lat": 42.937170491,
+    "lng": -71.6412530372
+  }
+}, {
+  "name": "Portland IAP ANG",
+  "location": {
+    "lat": 45.5783794843,
+    "lng": -122.595521925
+  }
+}, {
+  "name": "Scott AFB",
+  "location": {
+    "lat": 38.5414818076,
+    "lng": -89.8537036559
+  }
+}, {
+  "name": "NG Camp Gruber",
+  "location": {
+    "lat": 35.6982004144,
+    "lng": -95.1672665598
+  }
+}, {
+  "name": "NG Mead TS/FMS 06/Utes 02",
+  "location": {
+    "lat": 41.1935295586,
+    "lng": -96.4384536797
+  }
+}, {
+  "name": "NG Greenlief TS/UTES 01",
+  "location": {
+    "lat": 40.5459251377,
+    "lng": -98.2756208599
+  }
+}, {
+  "name": "NG Silver Bell Army Heliport",
+  "location": {
+    "lat": 32.5228718308,
+    "lng": -111.333461822
+  }
+}, {
+  "name": "NG Camp Villere",
+  "location": {
+    "lat": 30.3233531244,
+    "lng": -89.8085256308
+  }
+}, {
+  "name": "NG New Castle Readiness Center/FMS 9",
+  "location": {
+    "lat": 40.9793982663,
+    "lng": -80.3247870434
+  }
+}, {
+  "name": "NG Saginaw",
+  "location": {
+    "lat": 32.8550925586,
+    "lng": -97.3503623315
+  }
+}, {
+  "name": "NG Bremerton",
+  "location": {
+    "lat": 47.552709639,
+    "lng": -122.681322245
+  }
+}, {
+  "name": "Target B-17",
+  "location": {
+    "lat": 39.2058446774,
+    "lng": -118.232177679
+  }
+}, {
+  "name": "Camp Morena",
+  "location": {
+    "lat": 32.7116634719,
+    "lng": -116.518554891
+  }
+}, {
+  "name": "Upper Yard Annapolis",
+  "location": {
+    "lat": 38.9886655979,
+    "lng": -76.4943484486
+  }
+}, {
+  "name": "Yankee Target Range",
+  "location": {
+    "lat": 28.2458871657,
+    "lng": -98.724210101
+  }
+}, {
+  "name": "Twin Cities AAP",
+  "location": {
+    "lat": 45.0981520846,
+    "lng": -93.1742357902
+  }
+}, {
+  "name": "Fort Gordon",
+  "location": {
+    "lat": 33.3566628083,
+    "lng": -82.2372795186
+  }
+}, {
+  "name": "Camp Mackall",
+  "location": {
+    "lat": 35.0301022844,
+    "lng": -79.4816241675
+  }
+}, {
+  "name": "Indiana Army Ammunition Plant",
+  "location": {
+    "lat": 38.452267261,
+    "lng": -85.6060059365
+  }
+}, {
+  "name": "MCAS Beaufort",
+  "location": {
+    "lat": 32.484834871,
+    "lng": -80.7071873496
+  }
+}, {
+  "name": "NAVSUPPACT Norfolk NSY",
+  "location": {
+    "lat": 36.816475644,
+    "lng": -76.2994222614
+  }
+}, {
+  "name": "Lafayette Rvr Complex",
+  "location": {
+    "lat": 36.9022639632,
+    "lng": -76.3023442266
+  }
+}, {
+  "name": "Bangor WA",
+  "location": {
+    "lat": 47.7233921483,
+    "lng": -122.714839767
+  }
+}, {
+  "name": "Eglin Air Force Auxiliary Field 3 Duke Fld",
+  "location": {
+    "lat": 30.6490705509,
+    "lng": -86.5276912145
+  }
+}, {
+  "name": "Wright-Patt AFB",
+  "location": {
+    "lat": 39.8174211612,
+    "lng": -84.0507057402
+  }
+}, {
+  "name": "Lackland AFB",
+  "location": {
+    "lat": 29.38670604,
+    "lng": -98.6180831793
+  }
+}, {
+  "name": "NG Sparta Armory",
+  "location": {
+    "lat": 38.160004736,
+    "lng": -89.7239409546
+  }
+}, {
+  "name": "NG MTA Camp Crowder Neosho",
+  "location": {
+    "lat": 36.7939679589,
+    "lng": -94.3642921962
+  }
+}, {
+  "name": "NG Hollidaysburg Readiness Center",
+  "location": {
+    "lat": 40.4394550384,
+    "lng": -78.4147910881
+  }
+}, {
+  "name": "NG Camp Beauregard",
+  "location": {
+    "lat": 31.3776577083,
+    "lng": -92.3866852494
+  }
+}, {
+  "name": "NG Helena Aviation RC- AASF- C12",
+  "location": {
+    "lat": 46.608471557,
+    "lng": -111.971041404
+  }
+}, {
+  "name": "NG Lansing Joint Forces Readiness Center",
+  "location": {
+    "lat": 42.7681480625,
+    "lng": -84.5713082578
+  }
+}, {
+  "name": "NG Camp Perry Joint Training Center",
+  "location": {
+    "lat": 41.54343955,
+    "lng": -83.0221332784
+  }
+}, {
+  "name": "NG Oklahoma Military Department",
+  "location": {
+    "lat": 35.5035184926,
+    "lng": -97.4701679958
+  }
+}, {
+  "name": "NG Salina KS Training Center",
+  "location": {
+    "lat": 38.785720474,
+    "lng": -97.6388622613
+  }
+}, {
+  "name": "NAVOBSSTA Flagstaff AZ",
+  "location": {
+    "lat": 35.1875402981,
+    "lng": -111.741594825
+  }
+}, {
+  "name": "Target B-16",
+  "location": {
+    "lat": 39.3394330115,
+    "lng": -118.880780116
+  }
+}, {
+  "name": "Barin Field",
+  "location": {
+    "lat": 30.3910783123,
+    "lng": -87.6313191791
+  }
+}, {
+  "name": "Old Town Site 1",
+  "location": {
+    "lat": 32.7486743431,
+    "lng": -117.197008871
+  }
+}, {
+  "name": "Broadway Complex",
+  "location": {
+    "lat": 32.7136561362,
+    "lng": -117.172024897
+  }
+}, {
+  "name": "Mission Gorge Rec Area",
+  "location": {
+    "lat": 32.8048190699,
+    "lng": -117.093958022
+  }
+}, {
+  "name": "McGuire",
+  "location": {
+    "lat": 40.0256494173,
+    "lng": -74.5801329664
+  }
+}, {
+  "name": "Northside Mid-South",
+  "location": {
+    "lat": 35.3427908944,
+    "lng": -89.8597481799
+  }
+}, {
+  "name": "NSWC Carderock Div",
+  "location": {
+    "lat": 35.0872036174,
+    "lng": -90.1390498645
+  }
+}, {
+  "name": "Presidio of Monterey",
+  "location": {
+    "lat": 36.6032534708,
+    "lng": -121.912105279
+  }
+}, {
+  "name": "Fort Buchanan",
+  "location": {
+    "lat": 18.4127920097,
+    "lng": -66.1214794902
+  }
+}, {
+  "name": "Fire Fighters School",
+  "location": {
+    "lat": 36.9215240082,
+    "lng": -76.322723548
+  }
+}, {
+  "name": "Magazine Reservoir Naval Magazine",
+  "location": {
+    "lat": 13.3903260139,
+    "lng": 144.686307577
+  }
+}, {
+  "name": "Arnold",
+  "location": {
+    "lat": 35.3646392145,
+    "lng": -86.0796716743
+  }
+}, {
+  "name": "Eglin AFB Site 2 Santa Rosa Island",
+  "location": {
+    "lat": 30.394460792,
+    "lng": -86.7427418884
+  }
+}, {
+  "name": "Poinsett Range",
+  "location": {
+    "lat": 33.7961254892,
+    "lng": -80.4817960181
+  }
+}, {
+  "name": "Whiteman AFB",
+  "location": {
+    "lat": 38.7299115089,
+    "lng": -93.5553845227
+  }
+}, {
+  "name": "Niagara Falls",
+  "location": {
+    "lat": 43.1132212142,
+    "lng": -78.9500571676
+  }
+}, {
+  "name": "Cusick Survival Training Site",
+  "location": {
+    "lat": 48.4515209628,
+    "lng": -117.373850327
+  }
+}, {
+  "name": "Truax ANGB",
+  "location": {
+    "lat": 43.1306561021,
+    "lng": -89.3361064283
+  }
+}, {
+  "name": "Ellington Field",
+  "location": {
+    "lat": 29.6160801417,
+    "lng": -95.1704814148
+  }
+}, {
+  "name": "Lincoln Map",
+  "location": {
+    "lat": 40.841020615,
+    "lng": -96.7538721771
+  }
+}, {
+  "name": "JBSA Sam Houston",
+  "location": {
+    "lat": 29.4595308379,
+    "lng": -98.4407138221
+  }
+}, {
+  "name": "NG McConnelsville Training Site",
+  "location": {
+    "lat": 39.6614390075,
+    "lng": -81.8394982857
+  }
+}, {
+  "name": "NG St Cloud AASF",
+  "location": {
+    "lat": 45.5390766509,
+    "lng": -94.0557892236
+  }
+}, {
+  "name": "NG Camp Pendleton SMR",
+  "location": {
+    "lat": 36.8161399548,
+    "lng": -75.9791524396
+  }
+}, {
+  "name": "NG Jackson Airport Armory",
+  "location": {
+    "lat": 35.5981462433,
+    "lng": -88.9129589106
+  }
+}, {
+  "name": "ALF Cabaniss",
+  "location": {
+    "lat": 27.7013359207,
+    "lng": -97.4363492634
+  }
+}, {
+  "name": "San Nicolas Island",
+  "location": {
+    "lat": 33.2479609439,
+    "lng": -119.506113048
+  }
+}, {
+  "name": "NAS Whiting Field Milton FL",
+  "location": {
+    "lat": 30.7137475905,
+    "lng": -87.0201884489
+  }
+}, {
+  "name": "Umatilla Chemical Depot",
+  "location": {
+    "lat": 45.8426458207,
+    "lng": -119.437655677
+  }
+}, {
+  "name": "Defense Supply Center Columbus",
+  "location": {
+    "lat": 39.9796100871,
+    "lng": -82.8985258467
+  }
+}, {
+  "name": "US Army Garrison Selfridge",
+  "location": {
+    "lat": 42.6609659498,
+    "lng": -82.8128744872
+  }
+}, {
+  "name": "Fort Wingate Depot Activity",
+  "location": {
+    "lat": 35.4623986207,
+    "lng": -108.598242168
+  }
+}, {
+  "name": "Pupukea Paalaa Uka Mil Road",
+  "location": {
+    "lat": 19.9692428627,
+    "lng": -155.719658833
+  }
+}, {
+  "name": "MCRD Beaufort",
+  "location": {
+    "lat": 32.337579472,
+    "lng": -80.69617786
+  }
+}, {
+  "name": "Marine Corps Museum",
+  "location": {
+    "lat": 38.5203611824,
+    "lng": -77.3647271918
+  }
+}, {
+  "name": "Det Phil Pny Annex",
+  "location": {
+    "lat": 39.8917550243,
+    "lng": -75.1787438843
+  }
+}, {
+  "name": "Naval Station Newport RI",
+  "location": {
+    "lat": 41.535278318,
+    "lng": -71.3096354954
+  }
+}, {
+  "name": "Sasa Valley",
+  "location": {
+    "lat": 13.4489097645,
+    "lng": 144.699606632
+  }
+}, {
+  "name": "Utah Test and Training Range South UT",
+  "location": {
+    "lat": 40.4970086744,
+    "lng": -113.563257825
+  }
+}, {
+  "name": "Hill AFB",
+  "location": {
+    "lat": 41.128082376,
+    "lng": -111.991247141
+  }
+}, {
+  "name": "Youngstown",
+  "location": {
+    "lat": 41.2673838021,
+    "lng": -80.6786812118
+  }
+}, {
+  "name": "Travis AFB",
+  "location": {
+    "lat": 38.2645314897,
+    "lng": -121.942797537
+  }
+}, {
+  "name": "The Farish Memorial Recreational Annex",
+  "location": {
+    "lat": 38.9991596818,
+    "lng": -104.999644284
+  }
+}, {
+  "name": "Grissom ARB",
+  "location": {
+    "lat": 40.6539758948,
+    "lng": -86.1518428016
+  }
+}, {
+  "name": "Pillar Point AFS",
+  "location": {
+    "lat": 37.4989475163,
+    "lng": -122.498033406
+  }
+}, {
+  "name": "Maxwell AFB",
+  "location": {
+    "lat": 32.3830076533,
+    "lng": -86.356311322
+  }
+}, {
+  "name": "Eielson AFB",
+  "location": {
+    "lat": 64.6741086836,
+    "lng": -147.060214201
+  }
+}, {
+  "name": "Francis S Gabreski Airport",
+  "location": {
+    "lat": 40.8369889702,
+    "lng": -72.6434132546
+  }
+}, {
+  "name": "Quonset State Airport",
+  "location": {
+    "lat": 41.5969299432,
+    "lng": -71.4184961614
+  }
+}, {
+  "name": "NG Beightler Armory",
+  "location": {
+    "lat": 40.0892143305,
+    "lng": -83.0674428948
+  }
+}, {
+  "name": "NG Elkins AFRC",
+  "location": {
+    "lat": 38.9545040967,
+    "lng": -79.9791154099
+  }
+}, {
+  "name": "NG Anthony Cometa Complex",
+  "location": {
+    "lat": 36.0173819633,
+    "lng": -115.200674517
+  }
+}, {
+  "name": "NG TS Camp Johnson",
+  "location": {
+    "lat": 44.4996364569,
+    "lng": -73.1646298114
+  }
+}, {
+  "name": "Amphib Base Coronado East",
+  "location": {
+    "lat": 32.6678869196,
+    "lng": -117.157059858
+  }
+}, {
+  "name": "Warner Springs Rts",
+  "location": {
+    "lat": 33.3401617984,
+    "lng": -116.68138499
+  }
+}, {
+  "name": "Carlisle Barracks",
+  "location": {
+    "lat": 40.2073636557,
+    "lng": -77.1688037409
+  }
+}, {
+  "name": "Peterson AFB",
+  "location": {
+    "lat": 38.822867706,
+    "lng": -104.696062064
+  }
+}, {
+  "name": "Tooele Army Depot",
+  "location": {
+    "lat": 40.5270428347,
+    "lng": -112.411357721
+  }
+}, {
+  "name": "Fort Campbell TN",
+  "location": {
+    "lat": 36.596494345,
+    "lng": -87.599046902
+  }
+}, {
+  "name": "Arlington National Cemetery",
+  "location": {
+    "lat": 38.8778215838,
+    "lng": -77.0690379263
+  }
+}, {
+  "name": "Fort McCoy",
+  "location": {
+    "lat": 44.0335308735,
+    "lng": -90.6765636531
+  }
+}, {
+  "name": "Fort Lesley J McNair",
+  "location": {
+    "lat": 38.8671698257,
+    "lng": -77.016494005
+  }
+}, {
+  "name": "Helemano Military Reservation",
+  "location": {
+    "lat": 21.5359637869,
+    "lng": -158.019432628
+  }
+}, {
+  "name": "USA Field Station Kunia",
+  "location": {
+    "lat": 21.4768147455,
+    "lng": -158.052424245
+  }
+}, {
+  "name": "Twentynine Palms",
+  "location": {
+    "lat": 34.461945779,
+    "lng": -116.210925972
+  }
+}, {
+  "name": "MCB Quantico",
+  "location": {
+    "lat": 38.5520544383,
+    "lng": -77.4571616476
+  }
+}, {
+  "name": "St Juliens Creek East",
+  "location": {
+    "lat": 36.7879489259,
+    "lng": -76.3101638082
+  }
+}, {
+  "name": "Elizabeth Rvr Channel",
+  "location": {
+    "lat": 36.8663757991,
+    "lng": -76.3318847593
+  }
+}, {
+  "name": "Naval Support Activity Wash",
+  "location": {
+    "lat": 38.8740586335,
+    "lng": -76.9950963249
+  }
+}, {
+  "name": "Naval Support Activity Panama City",
+  "location": {
+    "lat": 30.1726207717,
+    "lng": -85.7522787123
+  }
+}, {
+  "name": "Nellis Annex",
+  "location": {
+    "lat": 36.2384449698,
+    "lng": -115.135834801
+  }
+}, {
+  "name": "JB Andrews",
+  "location": {
+    "lat": 38.8051681105,
+    "lng": -76.8744692983
+  }
+}, {
+  "name": "Schriever AFB",
+  "location": {
+    "lat": 38.8058114757,
+    "lng": -104.519907537
+  }
+}, {
+  "name": "Charleston Defense Fuel Support Point",
+  "location": {
+    "lat": 32.9127968927,
+    "lng": -79.983267572
+  }
+}, {
+  "name": "Joint Base Charleston Short Stay",
+  "location": {
+    "lat": 33.2559459604,
+    "lng": -79.9889000764
+  }
+}, {
+  "name": "Maxwell AFB Gunter Annex",
+  "location": {
+    "lat": 32.4070003775,
+    "lng": -86.2462388765
+  }
+}, {
+  "name": "Alpena County Regional Airport",
+  "location": {
+    "lat": 45.0843936284,
+    "lng": -83.5700561745
+  }
+}, {
+  "name": "Forbes Field ANG",
+  "location": {
+    "lat": 38.9609025845,
+    "lng": -95.681207501
+  }
+}, {
+  "name": "Kingsley Field Cantonement Site 1",
+  "location": {
+    "lat": 42.1604107875,
+    "lng": -121.744216355
+  }
+}, {
+  "name": "Nashville IAP",
+  "location": {
+    "lat": 36.1109974019,
+    "lng": -86.6749742271
+  }
+}, {
+  "name": "NG Fort Worth - Shoreview",
+  "location": {
+    "lat": 32.778187703,
+    "lng": -97.458544842
+  }
+}, {
+  "name": "NG Muscatatuck Urban Training Center",
+  "location": {
+    "lat": 39.0513458097,
+    "lng": -85.5247386919
+  }
+}, {
+  "name": "NG MTA Ft Wm Henry Harrison",
+  "location": {
+    "lat": 46.626145715,
+    "lng": -112.146444058
+  }
+}, {
+  "name": "NG Ayer",
+  "location": {
+    "lat": 42.5489411722,
+    "lng": -71.584497782
+  }
+}, {
+  "name": "NG Macon TS",
+  "location": {
+    "lat": 39.6732925118,
+    "lng": -92.5020276292
+  }
+}, {
+  "name": "NG Johnson City Gray",
+  "location": {
+    "lat": 36.4213309591,
+    "lng": -82.4887633022
+  }
+}, {
+  "name": "NG Muskogee AFRC",
+  "location": {
+    "lat": 35.6603704603,
+    "lng": -95.3735309528
+  }
+}, {
+  "name": "NG Fort Pickett ARNG MTC",
+  "location": {
+    "lat": 37.0367527263,
+    "lng": -77.9093172808
+  }
+}, {
+  "name": "NOLF Choctaw",
+  "location": {
+    "lat": 30.5064032466,
+    "lng": -86.9567087641
+  }
+}, {
+  "name": "NOLF Evergreen",
+  "location": {
+    "lat": 31.4156644398,
+    "lng": -87.0439393588
+  }
+}, {
+  "name": "NAWS China Lake",
+  "location": {
+    "lat": 35.9342694303,
+    "lng": -117.643911309
+  }
+}, {
+  "name": "Fort Hood",
+  "location": {
+    "lat": 31.2156853581,
+    "lng": -97.7370319242
+  }
+}, {
+  "name": "Air Force Plant 6",
+  "location": {
+    "lat": 33.922334237,
+    "lng": -84.5270544482
+  }
+}, {
+  "name": "Subase Kings Bay GA",
+  "location": {
+    "lat": 30.7934587256,
+    "lng": -81.5333259382
+  }
+}, {
+  "name": "NAS Fallon NV",
+  "location": {
+    "lat": 39.4222968339,
+    "lng": -118.704557143
+  }
+}, {
+  "name": "Kawaihae Mil Reserve",
+  "location": {
+    "lat": 20.0318843522,
+    "lng": -155.829966763
+  }
+}, {
+  "name": "Fort Belvoir",
+  "location": {
+    "lat": 38.7084767137,
+    "lng": -77.1565160328
+  }
+}, {
+  "name": "Naval Support Activity Crane",
+  "location": {
+    "lat": 38.8411900749,
+    "lng": -86.8124514998
+  }
+}, {
+  "name": "Naval Magazine",
+  "location": {
+    "lat": 13.3594268458,
+    "lng": 144.692281863
+  }
+}, {
+  "name": "Tinker AFB",
+  "location": {
+    "lat": 35.4191853794,
+    "lng": -97.3929293521
+  }
+}, {
+  "name": "Ellsworth AFB Site 2",
+  "location": {
+    "lat": 44.1331953443,
+    "lng": -103.090999951
+  }
+}, {
+  "name": "Homestead ARB",
+  "location": {
+    "lat": 25.4944981242,
+    "lng": -80.3914944068
+  }
+}, {
+  "name": "Lackland Training Annex",
+  "location": {
+    "lat": 29.3687556968,
+    "lng": -98.6650123488
+  }
+}, {
+  "name": "Yukon Weapons Range",
+  "location": {
+    "lat": 64.768242806,
+    "lng": -146.889492296
+  }
+}, {
+  "name": "Jacksonville IAP",
+  "location": {
+    "lat": 30.4863923135,
+    "lng": -81.7054402836
+  }
+}, {
+  "name": "Site 1 Cantonement Area",
+  "location": {
+    "lat": 40.8116650292,
+    "lng": -82.5179560357
+  }
+}, {
+  "name": "Martin State Airport",
+  "location": {
+    "lat": 39.3317978625,
+    "lng": -76.4150756624
+  }
+}, {
+  "name": "Salt Lake City IAP",
+  "location": {
+    "lat": 40.7896351662,
+    "lng": -111.956659778
+  }
+}, {
+  "name": "NG Carville Gillis Long Center",
+  "location": {
+    "lat": 30.2011201324,
+    "lng": -91.1289504931
+  }
+}, {
+  "name": "NG Springfield AVCRAD (New)",
+  "location": {
+    "lat": 37.2532754828,
+    "lng": -93.3909578934
+  }
+}, {
+  "name": "NG Alcantra Armory Complex",
+  "location": {
+    "lat": 61.6030503345,
+    "lng": -149.37484979
+  }
+}, {
+  "name": "NG Camp Adair Corvallis",
+  "location": {
+    "lat": 44.714336076,
+    "lng": -123.270695898
+  }
+}, {
+  "name": "NG Kalaeloa",
+  "location": {
+    "lat": 21.3189917251,
+    "lng": -158.062484829
+  }
+}, {
+  "name": "Aiea",
+  "location": {
+    "lat": 21.3735152684,
+    "lng": -157.937987691
+  }
+}, {
+  "name": "Ewa",
+  "location": {
+    "lat": 21.3388777428,
+    "lng": -157.995139279
+  }
+}, {
+  "name": "Sewage Evaporation Pond",
+  "location": {
+    "lat": 36.243764679,
+    "lng": -119.883529044
+  }
+}, {
+  "name": "Moody AFB",
+  "location": {
+    "lat": 30.9725276772,
+    "lng": -83.1646930406
+  }
+}, {
+  "name": "Tac X Stagefield AL",
+  "location": {
+    "lat": 31.122537386,
+    "lng": -85.9790965172
+  }
+}, {
+  "name": "Fort Lewis",
+  "location": {
+    "lat": 47.0544740533,
+    "lng": -122.552700903
+  }
+}, {
+  "name": "Hunter Army Airfield",
+  "location": {
+    "lat": 32.0096565094,
+    "lng": -81.1535601851
+  }
+}, {
+  "name": "Green River Test Complex UT",
+  "location": {
+    "lat": 38.9584020247,
+    "lng": -110.096989229
+  }
+}, {
+  "name": "Apra Heights",
+  "location": {
+    "lat": 13.4015824973,
+    "lng": 144.67867992
+  }
+}, {
+  "name": "Andy South",
+  "location": {
+    "lat": 13.5080101985,
+    "lng": 144.865759041
+  }
+}, {
+  "name": "Marysville WA",
+  "location": {
+    "lat": 48.1237034582,
+    "lng": -122.171056043
+  }
+}, {
+  "name": "Laughlin AFB Aux 1",
+  "location": {
+    "lat": 29.1183865271,
+    "lng": -100.47229345
+  }
+}, {
+  "name": "Joint Base Charleston Naval Weapons Station",
+  "location": {
+    "lat": 32.9629279333,
+    "lng": -79.9635724771
+  }
+}, {
+  "name": "Luke Waste Annex",
+  "location": {
+    "lat": 33.538406301,
+    "lng": -112.321762273
+  }
+}, {
+  "name": "Great Falls IAP",
+  "location": {
+    "lat": 47.4765456036,
+    "lng": -111.364979591
+  }
+}, {
+  "name": "Hector IAP",
+  "location": {
+    "lat": 46.913722408,
+    "lng": -96.8044644308
+  }
+}, {
+  "name": "Stewart IAP",
+  "location": {
+    "lat": 41.501405282,
+    "lng": -74.0843453548
+  }
+}, {
+  "name": "Burlington IAP",
+  "location": {
+    "lat": 44.4744278549,
+    "lng": -73.1478968168
+  }
+}, {
+  "name": "Canyon Lake Recreation Annex",
+  "location": {
+    "lat": 29.8846193966,
+    "lng": -98.2193812601
+  }
+}, {
+  "name": "NG Camp Dodge Johnston TS",
+  "location": {
+    "lat": 41.81021516,
+    "lng": -93.7813025881
+  }
+}, {
+  "name": "NG Fort Indiantown Gap",
+  "location": {
+    "lat": 40.4359467182,
+    "lng": -76.6296904585
+  }
+}, {
+  "name": "NG Fort Wolters",
+  "location": {
+    "lat": 32.8648656985,
+    "lng": -98.0295707976
+  }
+}, {
+  "name": "NG Beauregard Training Range",
+  "location": {
+    "lat": 31.4394196846,
+    "lng": -92.2955559116
+  }
+}, {
+  "name": "NG ITC Camp San Luis Obisbo",
+  "location": {
+    "lat": 35.3391521049,
+    "lng": -120.703075007
+  }
+}, {
+  "name": "NG Ft Allen Rq 177",
+  "location": {
+    "lat": 18.0130410519,
+    "lng": -66.5056515785
+  }
+}, {
+  "name": "NG TS Ethan Allen Range",
+  "location": {
+    "lat": 44.4717265822,
+    "lng": -72.896538843
+  }
+}, {
+  "name": "NG Gulfport AVCRAD",
+  "location": {
+    "lat": 30.4161868882,
+    "lng": -89.062874432
+  }
+}, {
+  "name": "NG Camp Swift",
+  "location": {
+    "lat": 30.2616699455,
+    "lng": -97.2945537016
+  }
+}, {
+  "name": "JBAB Anacostia Bolling",
+  "location": {
+    "lat": 38.8448751542,
+    "lng": -77.0147335466
+  }
+}, {
+  "name": "Honolulu",
+  "location": {
+    "lat": 21.3462993357,
+    "lng": -157.922047733
+  }
+}, {
+  "name": "NAS JRB New Orleans LA",
+  "location": {
+    "lat": 29.8313631946,
+    "lng": -90.0208667897
+  }
+}, {
+  "name": "NOLF Spencer",
+  "location": {
+    "lat": 30.6253166375,
+    "lng": -87.1398275231
+  }
+}, {
+  "name": "NOTU Cape Canaveral",
+  "location": {
+    "lat": 28.4282639805,
+    "lng": -80.588426762
+  }
+}, {
+  "name": "NAVWPNSYSTRAFAC Boardman",
+  "location": {
+    "lat": 45.72074181,
+    "lng": -119.687435193
+  }
+}, {
+  "name": "NAVSTA Everett WA",
+  "location": {
+    "lat": 47.9883156828,
+    "lng": -122.223175004
+  }
+}, {
+  "name": "NAS Whidbey Island WA",
+  "location": {
+    "lat": 48.3386378202,
+    "lng": -122.661500903
+  }
+}, {
+  "name": "Anniston Army Depot",
+  "location": {
+    "lat": 33.6531336371,
+    "lng": -85.9692368218
+  }
+}, {
+  "name": "Fort Carson",
+  "location": {
+    "lat": 38.5587412041,
+    "lng": -104.826768506
+  }
+}, {
+  "name": "Radford AAP",
+  "location": {
+    "lat": 37.1870774617,
+    "lng": -80.5424873564
+  }
+}, {
+  "name": "Choc Mt Air Gnry Rng",
+  "location": {
+    "lat": 33.3119495462,
+    "lng": -115.309239233
+  }
+}, {
+  "name": "Pearl City Annex",
+  "location": {
+    "lat": 21.3835443747,
+    "lng": -157.971379541
+  }
+}, {
+  "name": "Yorktown Fuel Depot",
+  "location": {
+    "lat": 37.2159079687,
+    "lng": -76.4860419602
+  }
+}, {
+  "name": "Waterfront",
+  "location": {
+    "lat": 40.422044168,
+    "lng": -74.0704353876
+  }
+}, {
+  "name": "Seymour Johnson AFB",
+  "location": {
+    "lat": 35.3479024962,
+    "lng": -77.962577717
+  }
+}, {
+  "name": "Westover ARB",
+  "location": {
+    "lat": 42.1990993962,
+    "lng": -72.5364984149
+  }
+}, {
+  "name": "Eareckson AS",
+  "location": {
+    "lat": 52.721036906,
+    "lng": 174.107140074
+  }
+}, {
+  "name": "Cheyenne Regional Airport",
+  "location": {
+    "lat": 41.1620252547,
+    "lng": -104.821289643
+  }
+}, {
+  "name": "Fort Smith Map",
+  "location": {
+    "lat": 35.3414611154,
+    "lng": -94.3704265035
+  }
+}, {
+  "name": "Memphis IAP",
+  "location": {
+    "lat": 35.025497959,
+    "lng": -89.966549951
+  }
+}, {
+  "name": "Springfield Beckley",
+  "location": {
+    "lat": 39.8490796654,
+    "lng": -83.8354791953
+  }
+}, {
+  "name": "Birmingham Airport",
+  "location": {
+    "lat": 33.5710203144,
+    "lng": -86.7541411026
+  }
+}, {
+  "name": "NG Camp Navajo",
+  "location": {
+    "lat": 35.1948003007,
+    "lng": -111.850594633
+  }
+}, {
+  "name": "NG HMO3 (Snake Creek TS)",
+  "location": {
+    "lat": 25.9624299881,
+    "lng": -80.3047964814
+  }
+}, {
+  "name": "NG CTC Fort Custer Trng Center",
+  "location": {
+    "lat": 42.2994261787,
+    "lng": -85.3177166165
+  }
+}, {
+  "name": "NG West Camp",
+  "location": {
+    "lat": 44.0731899378,
+    "lng": -103.30683687
+  }
+}, {
+  "name": "Naval Hospital",
+  "location": {
+    "lat": 13.4739477757,
+    "lng": 144.740245884
+  }
+}, {
+  "name": "Brooks AFB",
+  "location": {
+    "lat": 29.3427718639,
+    "lng": -98.4396992143
+  }
+}, {
+  "name": "Dover AFB",
+  "location": {
+    "lat": 39.1265401339,
+    "lng": -75.465256235
+  }
+}, {
+  "name": "Fort A P Hill",
+  "location": {
+    "lat": 38.1180327475,
+    "lng": -77.2759052325
+  }
+}, {
+  "name": "Tobyhanna Army Depot",
+  "location": {
+    "lat": 41.1975381899,
+    "lng": -75.4291099943
+  }
+}, {
+  "name": "MCAS Yuma",
+  "location": {
+    "lat": 32.6453966733,
+    "lng": -114.602240833
+  }
+}, {
+  "name": "NNSY St Helena",
+  "location": {
+    "lat": 36.8255463263,
+    "lng": -76.289264919
+  }
+}, {
+  "name": "Cheatham Annex",
+  "location": {
+    "lat": 37.2849658658,
+    "lng": -76.6194826812
+  }
+}, {
+  "name": "JEBLCFS Wallops Island VA",
+  "location": {
+    "lat": 37.8861451185,
+    "lng": -75.4686379534
+  }
+}, {
+  "name": "GL Camp JPJ",
+  "location": {
+    "lat": 42.3003113359,
+    "lng": -87.8539702937
+  }
+}, {
+  "name": "NAS Pensacola FL",
+  "location": {
+    "lat": 30.3527067706,
+    "lng": -87.3063356676
+  }
+}, {
+  "name": "Corry Station",
+  "location": {
+    "lat": 30.4028604162,
+    "lng": -87.2900851792
+  }
+}, {
+  "name": "Clear Air Force Station",
+  "location": {
+    "lat": 64.2881605755,
+    "lng": -149.190714695
+  }
+}, {
+  "name": "Joe Foss Field",
+  "location": {
+    "lat": 43.5732338069,
+    "lng": -96.7415313205
+  }
+}, {
+  "name": "Des Moines IAP",
+  "location": {
+    "lat": 41.5443605816,
+    "lng": -93.6660689484
+  }
+}, {
+  "name": "EWVRA Shepherd Field",
+  "location": {
+    "lat": 39.406011562,
+    "lng": -77.9845939323
+  }
+}, {
+  "name": "NG Camp Hartell",
+  "location": {
+    "lat": 41.9420819916,
+    "lng": -72.665875741
+  }
+}, {
+  "name": "NG Martindale - AASF",
+  "location": {
+    "lat": 29.4318157845,
+    "lng": -98.3795077904
+  }
+}, {
+  "name": "NG Marseilles (MTA Tng Area)",
+  "location": {
+    "lat": 41.286945521,
+    "lng": -88.6795863034
+  }
+}, {
+  "name": "NG Hollis Plains Training Site",
+  "location": {
+    "lat": 43.6687895015,
+    "lng": -70.6637499429
+  }
+}, {
+  "name": "NG Thunderbird Youth Academy",
+  "location": {
+    "lat": 36.2956939177,
+    "lng": -95.2921270779
+  }
+}, {
+  "name": "NG Fort McClellan ARNG Tng Center",
+  "location": {
+    "lat": 33.7333873334,
+    "lng": -85.7878345164
+  }
+}, {
+  "name": "NG CTA Camp Mccain",
+  "location": {
+    "lat": 33.7108821376,
+    "lng": -89.6859335176
+  }
+}, {
+  "name": "NG Camp Smith Tng Site",
+  "location": {
+    "lat": 41.3118240947,
+    "lng": -73.9509046086
+  }
+}, {
+  "name": "Harmon",
+  "location": {
+    "lat": 13.5219204866,
+    "lng": 144.81563688
+  }
+}, {
+  "name": "NAVBASE Point Loma",
+  "location": {
+    "lat": 32.6962020716,
+    "lng": -117.245822433
+  }
+}, {
+  "name": "NSA Andersen",
+  "location": {
+    "lat": 13.5991888519,
+    "lng": 144.895032191
+  }
+}, {
+  "name": "Dania Beach (Lauderdale)",
+  "location": {
+    "lat": 26.0918029314,
+    "lng": -80.1100114622
+  }
+}, {
+  "name": "Yakima Training Center",
+  "location": {
+    "lat": 46.744530905,
+    "lng": -120.165725249
+  }
+}, {
+  "name": "Shell Basefield AL",
+  "location": {
+    "lat": 31.3626015042,
+    "lng": -85.8489813304
+  }
+}, {
+  "name": "Fort George G Meade",
+  "location": {
+    "lat": 39.1046170939,
+    "lng": -76.7454436487
+  }
+}, {
+  "name": "Scranton AAP",
+  "location": {
+    "lat": 41.404179439,
+    "lng": -75.6659088025
+  }
+}, {
+  "name": "Watervliet Arsenal",
+  "location": {
+    "lat": 42.7198249748,
+    "lng": -73.7081190476
+  }
+}, {
+  "name": "MCLB Albany",
+  "location": {
+    "lat": 31.5508944243,
+    "lng": -84.0558826773
+  }
+}, {
+  "name": "MCAS Cherry Point",
+  "location": {
+    "lat": 34.9120752465,
+    "lng": -76.8854246963
+  }
+}, {
+  "name": "Former NTC",
+  "location": {
+    "lat": 32.7293500339,
+    "lng": -117.220992794
+  }
+}, {
+  "name": "NSA Saratoga Springs NY",
+  "location": {
+    "lat": 43.0790804004,
+    "lng": -73.8207400706
+  }
+}, {
+  "name": "Pentagon Building Site",
+  "location": {
+    "lat": 38.8719172793,
+    "lng": -77.0547227251
+  }
+}, {
+  "name": "Elmendorf AFB",
+  "location": {
+    "lat": 61.2697994083,
+    "lng": -149.811188858
+  }
+}, {
+  "name": "Fresno Yosemite International ANG",
+  "location": {
+    "lat": 36.766535122,
+    "lng": -119.71000318
+  }
+}, {
+  "name": "St Louis Air Force Station",
+  "location": {
+    "lat": 38.5912194524,
+    "lng": -90.2083428154
+  }
+}, {
+  "name": "NG Rickenbacker (MTA)",
+  "location": {
+    "lat": 39.80503102,
+    "lng": -82.9514625254
+  }
+}, {
+  "name": "NG Camp Withycombe Clackamas",
+  "location": {
+    "lat": 45.412447609,
+    "lng": -122.557961254
+  }
+}, {
+  "name": "NG TS AFRC Los Alamitos",
+  "location": {
+    "lat": 33.7912112939,
+    "lng": -118.052226791
+  }
+}, {
+  "name": "NG MTA Limestone Hills",
+  "location": {
+    "lat": 46.2740762237,
+    "lng": -111.579816882
+  }
+}, {
+  "name": "NG MTC-H Camp Grayling",
+  "location": {
+    "lat": 44.6874716798,
+    "lng": -84.7298829884
+  }
+}, {
+  "name": "NG Kansas",
+  "location": {
+    "lat": 39.0201681146,
+    "lng": -95.6832394397
+  }
+}, {
+  "name": "Waipahu",
+  "location": {
+    "lat": 21.3620293704,
+    "lng": -157.988002333
+  }
+}, {
+  "name": "Dredgers Key-Sigsbee",
+  "location": {
+    "lat": 24.5785674303,
+    "lng": -81.7735965378
+  }
+}, {
+  "name": "NAVBASE San Diego CA",
+  "location": {
+    "lat": 32.6757646692,
+    "lng": -117.122748674
+  }
+}, {
+  "name": "Finegayan",
+  "location": {
+    "lat": 13.5836144059,
+    "lng": 144.844294742
+  }
+}, {
+  "name": "Bridgeport",
+  "location": {
+    "lat": 38.3744532716,
+    "lng": -119.542277539
+  }
+}, {
+  "name": "Haarp Research Station",
+  "location": {
+    "lat": 62.4083568593,
+    "lng": -145.155004797
+  }
+}, {
+  "name": "Pohakuloa Training Area",
+  "location": {
+    "lat": 19.7144170574,
+    "lng": -155.626600781
+  }
+}, {
+  "name": "Military Ocean Tml Sunny Point",
+  "location": {
+    "lat": 34.0182119696,
+    "lng": -77.9732412004
+  }
+}, {
+  "name": "Waianae Kai Military Reservation",
+  "location": {
+    "lat": 21.4469197196,
+    "lng": -158.191081477
+  }
+}, {
+  "name": "Picatinny Arsenal",
+  "location": {
+    "lat": 40.9543096396,
+    "lng": -74.5446255065
+  }
+}, {
+  "name": "Arlington Service Ctr",
+  "location": {
+    "lat": 38.8677348506,
+    "lng": -77.0793350205
+  }
+}, {
+  "name": "CBC Gulfport MS",
+  "location": {
+    "lat": 30.3779481049,
+    "lng": -89.1263993012
+  }
+}, {
+  "name": "UTTR - North",
+  "location": {
+    "lat": 41.0243231993,
+    "lng": -113.216942448
+  }
+}, {
+  "name": "March ARB",
+  "location": {
+    "lat": 33.8888501058,
+    "lng": -117.258472446
+  }
+}, {
+  "name": "Newington Defense Fuel Support Point",
+  "location": {
+    "lat": 43.1138099132,
+    "lng": -70.814765745
+  }
+}, {
+  "name": "Gila Bend Air Force Auxiliary Field",
+  "location": {
+    "lat": 32.890154532,
+    "lng": -112.728184427
+  }
+}, {
+  "name": "Lakehurst",
+  "location": {
+    "lat": 40.0272120222,
+    "lng": -74.3752601945
+  }
+}, {
+  "name": "Randolph AFB",
+  "location": {
+    "lat": 29.5294863383,
+    "lng": -98.2783394708
+  }
+}, {
+  "name": "NG Macon Readiness Center",
+  "location": {
+    "lat": 32.8613917382,
+    "lng": -83.6056544923
+  }
+}, {
+  "name": "NG MTA Camp Butner",
+  "location": {
+    "lat": 36.2015259374,
+    "lng": -78.801333792
+  }
+}, {
+  "name": "NG MTA Camp Rilea",
+  "location": {
+    "lat": 46.1288264462,
+    "lng": -123.944346596
+  }
+}, {
+  "name": "NG Frankfort Boone NG Center",
+  "location": {
+    "lat": 38.1853052947,
+    "lng": -84.9089928237
+  }
+}, {
+  "name": "Makaha Ridge",
+  "location": {
+    "lat": 22.1303466109,
+    "lng": -159.725349007
+  }
+}, {
+  "name": "NOLF Wolf",
+  "location": {
+    "lat": 30.3446850234,
+    "lng": -87.5407700889
+  }
+}, {
+  "name": "NAVSUPPACT Annapolis",
+  "location": {
+    "lat": 38.9820668667,
+    "lng": -76.4838558469
+  }
+}, {
+  "name": "Jonathan Dickinson Tracking Annex",
+  "location": {
+    "lat": 26.9825205984,
+    "lng": -80.1068614293
+  }
+}, {
+  "name": "Fort Lee",
+  "location": {
+    "lat": 37.2494396184,
+    "lng": -77.3347277202
+  }
+}, {
+  "name": "Us Army Joint Sys Mfg CtrLima",
+  "location": {
+    "lat": 40.6996401966,
+    "lng": -84.1328894032
+  }
+}, {
+  "name": "Grand Prairie Reserve Complex",
+  "location": {
+    "lat": 32.7399583948,
+    "lng": -96.9564403611
+  }
+}, {
+  "name": "Kipapa Ammo Storage Site",
+  "location": {
+    "lat": 21.4396274449,
+    "lng": -158.003109942
+  }
+}, {
+  "name": "NAVSTA Norfolk VA",
+  "location": {
+    "lat": 36.9433080035,
+    "lng": -76.3015136921
+  }
+}, {
+  "name": "Webster Field",
+  "location": {
+    "lat": 38.145841636,
+    "lng": -76.4278909867
+  }
+}, {
+  "name": "Point Arena Air Force Station",
+  "location": {
+    "lat": 38.891840042,
+    "lng": -123.546579136
+  }
+}, {
+  "name": "Dobbins ARB",
+  "location": {
+    "lat": 33.9174086513,
+    "lng": -84.5192362187
+  }
+}, {
+  "name": "Columbus AFB",
+  "location": {
+    "lat": 33.6413120873,
+    "lng": -88.4511187521
+  }
+}, {
+  "name": "Bangor IAP",
+  "location": {
+    "lat": 44.8175673815,
+    "lng": -68.8298013821
+  }
+}, {
+  "name": "McGhee Tyson Airport",
+  "location": {
+    "lat": 35.8114939421,
+    "lng": -84.0036709533
+  }
+}, {
+  "name": "Gen Mitchell IAP",
+  "location": {
+    "lat": 42.9410456217,
+    "lng": -87.8879842837
+  }
+}, {
+  "name": "W K Kellogg",
+  "location": {
+    "lat": 42.3152607726,
+    "lng": -85.2517650226
+  }
+}, {
+  "name": "NG Stones Ranch Military Res",
+  "location": {
+    "lat": 41.365115238,
+    "lng": -72.2719883265
+  }
+}, {
+  "name": "NG Jackson Bks",
+  "location": {
+    "lat": 29.9610820259,
+    "lng": -90.0054600369
+  }
+}, {
+  "name": "NG Shelbyville",
+  "location": {
+    "lat": 39.5789596414,
+    "lng": -85.8110236465
+  }
+}, {
+  "name": "NG Camp Ravenna Joint Military Training Center",
+  "location": {
+    "lat": 41.1971787101,
+    "lng": -81.0848343174
+  }
+}, {
+  "name": "NG Rochester NGA and OMS 2",
+  "location": {
+    "lat": 43.9969533709,
+    "lng": -92.431667564
+  }
+}, {
+  "name": "NG Youngstown Tng Site",
+  "location": {
+    "lat": 43.2374990056,
+    "lng": -78.9726913885
+  }
+}, {
+  "name": "NG Ethan Allen AFB MTA",
+  "location": {
+    "lat": 44.5098902146,
+    "lng": -73.1635564756
+  }
+}, {
+  "name": "NG Camp Rapid",
+  "location": {
+    "lat": 44.0801387023,
+    "lng": -103.266957925
+  }
+}, {
+  "name": "Kamokala Ridge",
+  "location": {
+    "lat": 22.0390260692,
+    "lng": -159.754233043
+  }
+}, {
+  "name": "JBPHH Pearl Harbor HI",
+  "location": {
+    "lat": 21.3365657616,
+    "lng": -157.947911019
+  }
+}, {
+  "name": "Vieques West PR",
+  "location": {
+    "lat": 18.0962543996,
+    "lng": -65.5122515814
+  }
+}, {
+  "name": "Trumbo Point Annex",
+  "location": {
+    "lat": 24.564687961,
+    "lng": -81.7912167283
+  }
+}, {
+  "name": "Santa Cruz Island",
+  "location": {
+    "lat": 33.9949571838,
+    "lng": -119.633496836
+  }
+}, {
+  "name": "Tumon Tank Farm",
+  "location": {
+    "lat": 13.517951387,
+    "lng": 144.811096236
+  }
+}, {
+  "name": "Parks Reserve Forces Tng Area",
+  "location": {
+    "lat": 37.7301830972,
+    "lng": -121.896604083
+  }
+}, {
+  "name": "Highbluff Stagefield AL",
+  "location": {
+    "lat": 31.1507181645,
+    "lng": -85.7365895283
+  }
+}, {
+  "name": "Kahuku Tng Area",
+  "location": {
+    "lat": 21.6554725925,
+    "lng": -157.991699974
+  }
+}, {
+  "name": "Kilauea Mil Reserve",
+  "location": {
+    "lat": 19.4339227624,
+    "lng": -155.274146853
+  }
+}, {
+  "name": "W Silver Spring Complex",
+  "location": {
+    "lat": 43.122804331,
+    "lng": -87.9772820103
+  }
+}, {
+  "name": "Defense Distrib Depot Susq",
+  "location": {
+    "lat": 40.2081935416,
+    "lng": -76.8392842405
+  }
+}, {
+  "name": "Fort Detrick",
+  "location": {
+    "lat": 39.4393426467,
+    "lng": -77.4329802888
+  }
+}, {
+  "name": "Devens Reserve Forces Tng Area",
+  "location": {
+    "lat": 42.4983892077,
+    "lng": -71.6564168902
+  }
+}, {
+  "name": "Fort Benjamin Harrison",
+  "location": {
+    "lat": 39.8591031687,
+    "lng": -86.023591834
+  }
+}, {
+  "name": "MCAS Miramar",
+  "location": {
+    "lat": 32.8768862606,
+    "lng": -117.085904098
+  }
+}, {
+  "name": "Gould Island RI",
+  "location": {
+    "lat": 41.537007483,
+    "lng": -71.3449081892
+  }
+}, {
+  "name": "Saufley Field",
+  "location": {
+    "lat": 30.4703563325,
+    "lng": -87.341464807
+  }
+}, {
+  "name": "Dyess AFB",
+  "location": {
+    "lat": 32.4228638826,
+    "lng": -99.8391523672
+  }
+}, {
+  "name": "Vance AFB",
+  "location": {
+    "lat": 36.337985538,
+    "lng": -97.9145208117
+  }
+}, {
+  "name": "Sioux Gateway Airport (ANG)",
+  "location": {
+    "lat": 42.3949424324,
+    "lng": -96.3728939608
+  }
+}, {
+  "name": "General Wayne A Downing Peoria IAP",
+  "location": {
+    "lat": 40.6623266748,
+    "lng": -89.7047451161
+  }
+}, {
+  "name": "NG Camp Fogarty Tng Site",
+  "location": {
+    "lat": 41.6154323015,
+    "lng": -71.4990309697
+  }
+}, {
+  "name": "NG Bergstrom - (Abia)",
+  "location": {
+    "lat": 30.1763045639,
+    "lng": -97.6720949612
+  }
+}, {
+  "name": "NG Biak Training Center COUTES",
+  "location": {
+    "lat": 44.2000240894,
+    "lng": -121.116641902
+  }
+}, {
+  "name": "NG Nashville",
+  "location": {
+    "lat": 36.0990427201,
+    "lng": -86.7588114945
+  }
+}, {
+  "name": "NG Papago Military Reservation",
+  "location": {
+    "lat": 33.4680085999,
+    "lng": -111.961734255
+  }
+}, {
+  "name": "NG Indianapolis 38 ID",
+  "location": {
+    "lat": 39.7443784632,
+    "lng": -86.2281648634
+  }
+}, {
+  "name": "NG CTC Camp Dawson-Kingwood",
+  "location": {
+    "lat": 39.4053782409,
+    "lng": -79.6650809272
+  }
+}, {
+  "name": "NOLF Brewton",
+  "location": {
+    "lat": 31.0485248017,
+    "lng": -87.0645146284
+  }
+}, {
+  "name": "Amphib Base Coronado West",
+  "location": {
+    "lat": 32.6713189664,
+    "lng": -117.167654101
+  }
+}, {
+  "name": "Balboa Hospital",
+  "location": {
+    "lat": 32.7262714976,
+    "lng": -117.145036279
+  }
+}, {
+  "name": "NAVWPNSTA Seal Beach",
+  "location": {
+    "lat": 33.7504659919,
+    "lng": -118.064188826
+  }
+}, {
+  "name": "Norco",
+  "location": {
+    "lat": 33.9237676683,
+    "lng": -117.569462918
+  }
+}, {
+  "name": "Randsburg Wash Area",
+  "location": {
+    "lat": 35.5147864004,
+    "lng": -117.141406945
+  }
+}, {
+  "name": "Verona Defense Fuel Support Point",
+  "location": {
+    "lat": 43.1269235478,
+    "lng": -75.5912449791
+  }
+}, {
+  "name": "F E Warren AFB",
+  "location": {
+    "lat": 41.1707420451,
+    "lng": -104.860338183
+  }
+}, {
+  "name": "NARL Barrow Camp Tr1",
+  "location": {
+    "lat": 71.3217290437,
+    "lng": -156.647955307
+  }
+}, {
+  "name": "Lake Of The Ozarks Recreation",
+  "location": {
+    "lat": 38.0893373204,
+    "lng": -92.6050226881
+  }
+}, {
+  "name": "Fort Shafter",
+  "location": {
+    "lat": 21.3459798367,
+    "lng": -157.883423329
+  }
+}, {
+  "name": "OLF Atlantic",
+  "location": {
+    "lat": 34.8948517394,
+    "lng": -76.3494185567
+  }
+}, {
+  "name": "MCB Camp Pendleton",
+  "location": {
+    "lat": 33.3617631238,
+    "lng": -117.423573571
+  }
+}, {
+  "name": "Sea Plane Base",
+  "location": {
+    "lat": 48.2942162716,
+    "lng": -122.600904083
+  }
+}, {
+  "name": "Kegelman Air Force Auxiliary Field",
+  "location": {
+    "lat": 36.7367977571,
+    "lng": -98.1206530872
+  }
+}, {
+  "name": "Pittsburgh IAP (ANG)",
+  "location": {
+    "lat": 40.4853906277,
+    "lng": -80.2128717533
+  }
+}, {
+  "name": "Smoky Hill ANG Range",
+  "location": {
+    "lat": 38.698673015,
+    "lng": -97.8316970673
+  }
+}, {
+  "name": "Seguin Auxiliary Field",
+  "location": {
+    "lat": 29.5647013744,
+    "lng": -97.9056493003
+  }
+}, {
+  "name": "NG Orchard Combat Training Center",
+  "location": {
+    "lat": 43.2274955645,
+    "lng": -116.138977329
+  }
+}, {
+  "name": "NG Raleigh",
+  "location": {
+    "lat": 35.8091728617,
+    "lng": -78.7120731248
+  }
+}, {
+  "name": "NG TS Ike Skelton Jefferson City",
+  "location": {
+    "lat": 38.5515266427,
+    "lng": -92.0684326746
+  }
+}, {
+  "name": "NG Grand Island AASF/RC",
+  "location": {
+    "lat": 40.9618173985,
+    "lng": -98.2987920709
+  }
+}, {
+  "name": "NG Lawrenceville",
+  "location": {
+    "lat": 40.2697852903,
+    "lng": -74.7446975393
+  }
+}, {
+  "name": "Silver Strand South",
+  "location": {
+    "lat": 32.5969675488,
+    "lng": -117.128170944
+  }
+}, {
+  "name": "Wahiawa",
+  "location": {
+    "lat": 21.5204386438,
+    "lng": -158.005639333
+  }
+}, {
+  "name": "Dandan",
+  "location": {
+    "lat": 13.3106836826,
+    "lng": 144.736799463
+  }
+}, {
+  "name": "SPAWARS South",
+  "location": {
+    "lat": 32.6677774858,
+    "lng": -117.240517357
+  }
+}, {
+  "name": "Rome Laboratory",
+  "location": {
+    "lat": 43.2214961419,
+    "lng": -75.4097019981
+  }
+}, {
+  "name": "Aberdeen Proving Ground",
+  "location": {
+    "lat": 39.3897332632,
+    "lng": -76.2184808653
+  }
+}, {
+  "name": "Brown 4b Stagefield AL",
+  "location": {
+    "lat": 31.3863190917,
+    "lng": -85.9722716491
+  }
+}, {
+  "name": "Toth Stagefield AL",
+  "location": {
+    "lat": 31.2285844723,
+    "lng": -85.5587094717
+  }
+}, {
+  "name": "Schofield Barracks Military Reservation",
+  "location": {
+    "lat": 21.4956034912,
+    "lng": -158.053239766
+  }
+}, {
+  "name": "Fort Hamilton",
+  "location": {
+    "lat": 40.6089967598,
+    "lng": -74.0294500589
+  }
+}, {
+  "name": "Iowa AAP",
+  "location": {
+    "lat": 40.7920025926,
+    "lng": -91.2456158021
+  }
+}, {
+  "name": "ALF Bogue",
+  "location": {
+    "lat": 34.69285056,
+    "lng": -77.0286825557
+  }
+}, {
+  "name": "Naval Weapons Station Earle NJ",
+  "location": {
+    "lat": 40.253857198,
+    "lng": -74.1608483411
+  }
+}, {
+  "name": "NAVSUPPACT Hampton Roads VA",
+  "location": {
+    "lat": 36.9250152893,
+    "lng": -76.2996109684
+  }
+}, {
+  "name": "Det Philadelphia PA",
+  "location": {
+    "lat": 40.0413030722,
+    "lng": -75.094581272
+  }
+}, {
+  "name": "NAVBASE Guam",
+  "location": {
+    "lat": 13.4286325755,
+    "lng": 144.653464077
+  }
+}, {
+  "name": "NAS Meridian MS",
+  "location": {
+    "lat": 32.5531914123,
+    "lng": -88.5695131272
+  }
+}, {
+  "name": "NAVSUPPACT Midsouth Memphis TN",
+  "location": {
+    "lat": 35.3314242265,
+    "lng": -89.8707837951
+  }
+}, {
+  "name": "Eglin AFB (Eglin Main and Reservation)",
+  "location": {
+    "lat": 30.5759376196,
+    "lng": -86.5283733486
+  }
+}, {
+  "name": "Bradley IAP",
+  "location": {
+    "lat": 41.9349940506,
+    "lng": -72.7012504094
+  }
+}, {
+  "name": "New Castle Airport",
+  "location": {
+    "lat": 39.6865096946,
+    "lng": -75.5975562186
+  }
+}, {
+  "name": "Pease ANGB",
+  "location": {
+    "lat": 43.0890854907,
+    "lng": -70.8187307657
+  }
+}, {
+  "name": "Savannah/Hilton Head IAP",
+  "location": {
+    "lat": 32.1264203859,
+    "lng": -81.1897565604
+  }
+}, {
+  "name": "MacDill AFB",
+  "location": {
+    "lat": 27.8436083654,
+    "lng": -82.5010227484
+  }
+}, {
+  "name": "NG TS Clark Natl Forest Wapp",
+  "location": {
+    "lat": 36.8915192187,
+    "lng": -90.2799665184
+  }
+}, {
+  "name": "NG Rosemount NG Armory",
+  "location": {
+    "lat": 44.7477484831,
+    "lng": -93.1276054375
+  }
+}, {
+  "name": "Holtville Carrier LS",
+  "location": {
+    "lat": 32.8385569471,
+    "lng": -115.258177991
+  }
+}, {
+  "name": "West Bank",
+  "location": {
+    "lat": 29.9488308912,
+    "lng": -90.0328996808
+  }
+}, {
+  "name": "NOLF Summerdale",
+  "location": {
+    "lat": 30.5080389773,
+    "lng": -87.6471946322
+  }
+}, {
+  "name": "Santa Rosa Parcel B",
+  "location": {
+    "lat": 13.5358626798,
+    "lng": 144.914804435
+  }
+}, {
+  "name": "Sheppard AFB",
+  "location": {
+    "lat": 33.984552387,
+    "lng": -98.4996936818
+  }
+}, {
+  "name": "OLF Coupeville",
+  "location": {
+    "lat": 48.1896005828,
+    "lng": -122.632442292
+  }
+}, {
+  "name": "Mountain Home AFB",
+  "location": {
+    "lat": 43.0489402334,
+    "lng": -115.865880301
+  }
+}, {
+  "name": "Beale AFB",
+  "location": {
+    "lat": 39.121056975,
+    "lng": -121.395465168
+  }
+}, {
+  "name": "MCB Camp Lejeune (East Site)",
+  "location": {
+    "lat": 34.6433579946,
+    "lng": -77.3051040489
+  }
+}, {
+  "name": "Patrick AFB",
+  "location": {
+    "lat": 28.233869335,
+    "lng": -80.6080075194
+  }
+}, {
+  "name": "Fort Jackson",
+  "location": {
+    "lat": 34.0398329341,
+    "lng": -80.8279912711
+  }
+}, {
+  "name": "Fort Polk",
+  "location": {
+    "lat": 31.1583587094,
+    "lng": -93.1211074078
+  }
+}, {
+  "name": "Hunt Stagefield AL",
+  "location": {
+    "lat": 31.3801590885,
+    "lng": -85.5801110187
+  }
+}, {
+  "name": "Fort De Russy",
+  "location": {
+    "lat": 21.2818165031,
+    "lng": -157.833889161
+  }
+}, {
+  "name": "Fort Detrick Forest Glen Annex",
+  "location": {
+    "lat": 39.0062532255,
+    "lng": -77.0549719287
+  }
+}, {
+  "name": "SDA Area",
+  "location": {
+    "lat": 36.9200366625,
+    "lng": -76.3166237521
+  }
+}, {
+  "name": "Redington Township",
+  "location": {
+    "lat": 44.9888095805,
+    "lng": -70.4506315715
+  }
+}, {
+  "name": "Bratenahl",
+  "location": {
+    "lat": 41.5424613695,
+    "lng": -81.6261664945
+  }
+}, {
+  "name": "Avon Park AF Range",
+  "location": {
+    "lat": 27.646918201,
+    "lng": -81.2767274884
+  }
+}, {
+  "name": "Langley AFB",
+  "location": {
+    "lat": 37.0855727581,
+    "lng": -76.3643682001
+  }
+}, {
+  "name": "Charleston AFB",
+  "location": {
+    "lat": 32.8994019151,
+    "lng": -80.0503551711
+  }
+}, {
+  "name": "McEntire Joint National Guard Base",
+  "location": {
+    "lat": 33.9228868864,
+    "lng": -80.8006861299
+  }
+}, {
+  "name": "Schenectady ANG MAP",
+  "location": {
+    "lat": 42.8521798908,
+    "lng": -73.9228087372
+  }
+}, {
+  "name": "Tulsa IAP",
+  "location": {
+    "lat": 36.21702376,
+    "lng": -95.8747750984
+  }
+}, {
+  "name": "Hulman Fld",
+  "location": {
+    "lat": 39.4539927154,
+    "lng": -87.294448703
+  }
+}, {
+  "name": "McConnell AFB",
+  "location": {
+    "lat": 37.6251905946,
+    "lng": -97.2602816317
+  }
+}, {
+  "name": "NG Grayling Airfield",
+  "location": {
+    "lat": 44.6816424356,
+    "lng": -84.7276786991
+  }
+}, {
+  "name": "NG Camp Ripley",
+  "location": {
+    "lat": 46.2108188793,
+    "lng": -94.4252675838
+  }
+}, {
+  "name": "NG Knightstown",
+  "location": {
+    "lat": 39.7713454952,
+    "lng": -85.5168694395
+  }
+}, {
+  "name": "NG Camp Atterbury",
+  "location": {
+    "lat": 39.2975804442,
+    "lng": -86.0464169812
+  }
+}, {
+  "name": "NG Rio Rancho TS",
+  "location": {
+    "lat": 35.3734788352,
+    "lng": -106.652026372
+  }
+}, {
+  "name": "NG Sea Girt NJ NGTC",
+  "location": {
+    "lat": 40.1238242063,
+    "lng": -74.0373077638
+  }
+}, {
+  "name": "NG Floyd Edsall Training Center",
+  "location": {
+    "lat": 36.2909200901,
+    "lng": -115.041255853
+  }
+}, {
+  "name": "NG MTA Camp Santiago",
+  "location": {
+    "lat": 18.0287728142,
+    "lng": -66.283607501
+  }
+}, {
+  "name": "NG TS Keaukaha Mil Res",
+  "location": {
+    "lat": 19.7065531733,
+    "lng": -155.038477564
+  }
+}, {
+  "name": "NAS Fort Worth JRB TX",
+  "location": {
+    "lat": 32.7688101038,
+    "lng": -97.4336577395
+  }
+}, {
+  "name": "NOLF Santa Rosa",
+  "location": {
+    "lat": 30.6093001746,
+    "lng": -86.9388110937
+  }
+}, {
+  "name": "Agana",
+  "location": {
+    "lat": 13.473014243,
+    "lng": 144.764869419
+  }
+}, {
+  "name": "Barrigada - NAVBASE Guam",
+  "location": {
+    "lat": 13.4768144414,
+    "lng": 144.828805596
+  }
+}, {
+  "name": "NAVBASE Ventura Cty Point Mugu CA",
+  "location": {
+    "lat": 34.1123267884,
+    "lng": -119.110013772
+  }
+}, {
+  "name": "NAVSUPPFAC Beaufort SC",
+  "location": {
+    "lat": 32.3890480095,
+    "lng": -80.681975435
+  }
+}, {
+  "name": "Chesapeake Bay Detach",
+  "location": {
+    "lat": 38.6584730674,
+    "lng": -76.5320162332
+  }
+}, {
+  "name": "NAVPMOSSP Mtn View",
+  "location": {
+    "lat": 37.4129145643,
+    "lng": -122.028398714
+  }
+}, {
+  "name": "Robins AFB",
+  "location": {
+    "lat": 32.6175524438,
+    "lng": -83.5815847711
+  }
+}, {
+  "name": "Military Ocean Terminal Concord",
+  "location": {
+    "lat": 38.0513971399,
+    "lng": -122.018795364
+  }
+}, {
+  "name": "Fort Campbell KY",
+  "location": {
+    "lat": 36.6697817061,
+    "lng": -87.6718272017
+  }
+}, {
+  "name": "Rock Island Arsenal",
+  "location": {
+    "lat": 41.5170748739,
+    "lng": -90.5411561301
+  }
+}, {
+  "name": "Jacksonville FL Maint",
+  "location": {
+    "lat": 30.405301276,
+    "lng": -81.6216735389
+  }
+}, {
+  "name": "Puuloa-Oahu",
+  "location": {
+    "lat": 21.3182154989,
+    "lng": -157.988054568
+  }
+}, {
+  "name": "Fort Adams RI",
+  "location": {
+    "lat": 41.4753432866,
+    "lng": -71.3399358753
+  }
+}, {
+  "name": "NAVSTA Mayport FL",
+  "location": {
+    "lat": 30.3815861854,
+    "lng": -81.4248272955
+  }
+}, {
+  "name": "NAS Corpus Christi TX",
+  "location": {
+    "lat": 27.6924886772,
+    "lng": -97.2793198862
+  }
+}, {
+  "name": "Hurlburt Field",
+  "location": {
+    "lat": 30.4291906458,
+    "lng": -86.6987100281
+  }
+}, {
+  "name": "Minn-St Paul",
+  "location": {
+    "lat": 44.892490313,
+    "lng": -93.2071583527
+  }
+}, {
+  "name": "Vandenberg Main Base",
+  "location": {
+    "lat": 34.7135727132,
+    "lng": -120.55814563
+  }
+}, {
+  "name": "Will Rogers World Airport",
+  "location": {
+    "lat": 35.4076597475,
+    "lng": -97.611671339
+  }
+}, {
+  "name": "NG MTCH Camp Guernsey",
+  "location": {
+    "lat": 42.3382282871,
+    "lng": -104.809449137
+  }
+}, {
+  "name": "NG Fort Chaffee MTC",
+  "location": {
+    "lat": 35.2565207847,
+    "lng": -94.1634392414
+  }
+}, {
+  "name": "NG MTA Camp Shelby",
+  "location": {
+    "lat": 31.0902463593,
+    "lng": -89.0068676906
+  }
+}, {
+  "name": "NG Picacho Aviation TS",
+  "location": {
+    "lat": 32.6629164638,
+    "lng": -111.488032827
+  }
+}, {
+  "name": "NG MTA Camp Edwards",
+  "location": {
+    "lat": 41.7003516585,
+    "lng": -70.5448394116
+  }
+}, {
+  "name": "NG MTA Camp Fretterd",
+  "location": {
+    "lat": 39.4979931517,
+    "lng": -76.8456986902
+  }
+}, {
+  "name": "NALF Goliad",
+  "location": {
+    "lat": 28.6111807311,
+    "lng": -97.6121549462
+  }
+}, {
+  "name": "Gambrills",
+  "location": {
+    "lat": 39.0567083217,
+    "lng": -76.6762764474
+  }
+}, {
+  "name": "NAVACAD North Severn",
+  "location": {
+    "lat": 38.9898516944,
+    "lng": -76.4624264305
+  }
+}, {
+  "name": "Navy Annex",
+  "location": {
+    "lat": 36.5916541246,
+    "lng": -121.860796344
+  }
+}, {
+  "name": "Potts Tank Farm",
+  "location": {
+    "lat": 13.5867244468,
+    "lng": 144.862277501
+  }
+}, {
+  "name": "Stump Neck Area",
+  "location": {
+    "lat": 38.5491137312,
+    "lng": -77.2131682728
+  }
+}, {
+  "name": "Keesler AFB",
+  "location": {
+    "lat": 30.4078255445,
+    "lng": -88.9216855143
+  }
+}, {
+  "name": "Shipyard Puget Sound",
+  "location": {
+    "lat": 47.5591924008,
+    "lng": -122.635482091
+  }
+}, {
+  "name": "Fort Knox",
+  "location": {
+    "lat": 37.9070173886,
+    "lng": -85.8831225305
+  }
+}, {
+  "name": "Fort Leonard Wood",
+  "location": {
+    "lat": 37.7054875554,
+    "lng": -92.1571252371
+  }
+}, {
+  "name": "Fort Rucker AL",
+  "location": {
+    "lat": 31.4040790084,
+    "lng": -85.7473894209
+  }
+}, {
+  "name": "Detroit Arsenal",
+  "location": {
+    "lat": 42.4973285111,
+    "lng": -83.0413341243
+  }
+}, {
+  "name": "Fort Greely",
+  "location": {
+    "lat": 63.9667780882,
+    "lng": -145.715113744
+  }
+}, {
+  "name": "Jefferson Proving Ground",
+  "location": {
+    "lat": 38.9504184947,
+    "lng": -85.4176312593
+  }
+}, {
+  "name": "Riverbank AAP",
+  "location": {
+    "lat": 37.7212275293,
+    "lng": -120.919493007
+  }
+}, {
+  "name": "NSY Portsmouth",
+  "location": {
+    "lat": 43.0813485814,
+    "lng": -70.7333351232
+  }
+}, {
+  "name": "Cape Cod Air Station",
+  "location": {
+    "lat": 41.7536642401,
+    "lng": -70.539124869
+  }
+}, {
+  "name": "Norwalk 2",
+  "location": {
+    "lat": 33.8931849532,
+    "lng": -118.070170962
+  }
+}, {
+  "name": "Atlantic City IAP",
+  "location": {
+    "lat": 39.4481861918,
+    "lng": -74.5814031458
+  }
+}, {
+  "name": "Yeager Airport",
+  "location": {
+    "lat": 38.3731944221,
+    "lng": -81.5895194077
+  }
+}, {
+  "name": "NG Atlanta - Confederate Ave",
+  "location": {
+    "lat": 33.7222321357,
+    "lng": -84.358887856
+  }
+}, {
+  "name": "NG Collegeville FMS 4",
+  "location": {
+    "lat": 40.2146157734,
+    "lng": -75.4284194801
+  }
+}, {
+  "name": "NG Buckeye TS",
+  "location": {
+    "lat": 33.4645500341,
+    "lng": -112.601760483
+  }
+}, {
+  "name": "NG Oglethorpe Armory",
+  "location": {
+    "lat": 33.6173832012,
+    "lng": -84.309923744
+  }
+}, {
+  "name": "NG River Road Training Site",
+  "location": {
+    "lat": 39.6334303612,
+    "lng": -75.6070696877
+  }
+}, {
+  "name": "NG Edgemeade TS Mtn Home",
+  "location": {
+    "lat": 43.1442443568,
+    "lng": -115.652542493
+  }
+}, {
+  "name": "NG Norman CSMS",
+  "location": {
+    "lat": 35.2643197322,
+    "lng": -97.480057288
+  }
+}, {
+  "name": "NG Westminster Training Site",
+  "location": {
+    "lat": 43.0858827247,
+    "lng": -72.4513120197
+  }
+}, {
+  "name": "NG VTS Catoosa",
+  "location": {
+    "lat": 34.9312156533,
+    "lng": -85.0590610783
+  }
+}, {
+  "name": "NG VTS Smyrna",
+  "location": {
+    "lat": 36.0180985881,
+    "lng": -86.5036120259
+  }
+}, {
+  "name": "NG Saint George/FMS 5B",
+  "location": {
+    "lat": 37.0337681833,
+    "lng": -113.547140891
+  }
+}, {
+  "name": "NAF El Centro",
+  "location": {
+    "lat": 32.8253936819,
+    "lng": -115.668153219
+  }
+}, {
+  "name": "OLF Whitehouse",
+  "location": {
+    "lat": 30.3562317642,
+    "lng": -81.8711131789
+  }
+}, {
+  "name": "Naval Support Activity Orlando",
+  "location": {
+    "lat": 28.5841677574,
+    "lng": -81.1967624389
+  }
+}, {
+  "name": "George AFB",
+  "location": {
+    "lat": 34.5852155946,
+    "lng": -117.373249538
+  }
+}, {
+  "name": "NSA South Potomac",
+  "location": {
+    "lat": 38.3398584637,
+    "lng": -77.0325546791
+  }
+}, {
+  "name": "Grand Forks AFB",
+  "location": {
+    "lat": 47.9545695614,
+    "lng": -97.3916932722
+  }
+}, {
+  "name": "Ozol Defense Fuel Support Point",
+  "location": {
+    "lat": 38.0259039103,
+    "lng": -122.16702561
+  }
+}, {
+  "name": "Fort Hunter Liggett",
+  "location": {
+    "lat": 35.9554065709,
+    "lng": -121.253769516
+  }
+}, {
+  "name": "Fort Riley",
+  "location": {
+    "lat": 39.1866803598,
+    "lng": -96.8208663239
+  }
+}, {
+  "name": "Stinson 5AB Stagefield AL",
+  "location": {
+    "lat": 31.359582043,
+    "lng": -86.0139459687
+  }
+}, {
+  "name": "Dugway Proving Ground",
+  "location": {
+    "lat": 40.1545151653,
+    "lng": -113.284084389
+  }
+}, {
+  "name": "Rivanna Station",
+  "location": {
+    "lat": 38.1554946642,
+    "lng": -78.4136946349
+  }
+}, {
+  "name": "Fort Drum",
+  "location": {
+    "lat": 44.1248120384,
+    "lng": -75.5920674235
+  }
+}, {
+  "name": "US Army Soldier Systems Center Natick",
+  "location": {
+    "lat": 42.2895101722,
+    "lng": -71.3633494213
+  }
+}, {
+  "name": "Lone Star AAP (BRAC 2005)",
+  "location": {
+    "lat": 33.402984165,
+    "lng": -94.2554165694
+  }
+}, {
+  "name": "Rocky Mountain Arsenal",
+  "location": {
+    "lat": 39.8434493746,
+    "lng": -104.839363783
+  }
+}, {
+  "name": "Yermo Area",
+  "location": {
+    "lat": 34.8905585366,
+    "lng": -116.870241242
+  }
+}, {
+  "name": "Craney Island",
+  "location": {
+    "lat": 36.8887856719,
+    "lng": -76.3605553448
+  }
+}, {
+  "name": "Naval Weapons Station Yorktown",
+  "location": {
+    "lat": 37.2448033923,
+    "lng": -76.5855659537
+  }
+}, {
+  "name": "JEBLCFS East",
+  "location": {
+    "lat": 36.9231148685,
+    "lng": -76.0174690076
+  }
+}, {
+  "name": "Creech AFB",
+  "location": {
+    "lat": 36.6512553805,
+    "lng": -115.640007706
+  }
+}, {
+  "name": "Malmstrom AFB",
+  "location": {
+    "lat": 47.5059106291,
+    "lng": -111.182777387
+  }
+}, {
+  "name": "Minot AFB",
+  "location": {
+    "lat": 48.4210623214,
+    "lng": -101.338350153
+  }
+}, {
+  "name": "USAF Academy",
+  "location": {
+    "lat": 38.9946516318,
+    "lng": -104.857157781
+  }
+}, {
+  "name": "Isabela Puerto Rico",
+  "location": {
+    "lat": 18.4637645502,
+    "lng": -67.0658346043
+  }
+}, {
+  "name": "Little Rock AFB",
+  "location": {
+    "lat": 34.9040005265,
+    "lng": -92.1384692754
+  }
+}, {
+  "name": "Bellows",
+  "location": {
+    "lat": 21.3636803488,
+    "lng": -157.710220122
+  }
+}, {
+  "name": "Luke AFB",
+  "location": {
+    "lat": 33.5362891829,
+    "lng": -112.374183665
+  }
+}, {
+  "name": "Jackson IAP Thompson Field",
+  "location": {
+    "lat": 32.3244710273,
+    "lng": -90.0826770417
+  }
+}, {
+  "name": "Otis ANG Base",
+  "location": {
+    "lat": 41.6461510573,
+    "lng": -70.5337300198
+  }
+}, {
+  "name": "Rickenbacker",
+  "location": {
+    "lat": 39.8128368963,
+    "lng": -82.9437124972
+  }
+}, {
+  "name": "Selfridge ANGB",
+  "location": {
+    "lat": 42.6124987986,
+    "lng": -82.8324160105
+  }
+}, {
+  "name": "Volk ANGB",
+  "location": {
+    "lat": 43.9362601246,
+    "lng": -90.2543423584
+  }
+}, {
+  "name": "Duluth IAP",
+  "location": {
+    "lat": 46.8449538206,
+    "lng": -92.172128284
+  }
+}, {
+  "name": "Toledo/Exp Airport",
+  "location": {
+    "lat": 41.5865259257,
+    "lng": -83.7919651408
+  }
+}, {
+  "name": "NG Camp Niantic",
+  "location": {
+    "lat": 41.3313986668,
+    "lng": -72.1879440898
+  }
+}, {
+  "name": "NG Pelham Range Training Site - Fort McClellan",
+  "location": {
+    "lat": 33.7179613001,
+    "lng": -85.9502653692
+  }
+}, {
+  "name": "NG MTC-H Camp Roberts",
+  "location": {
+    "lat": 35.781595342,
+    "lng": -120.780040594
+  }
+}, {
+  "name": "NG St Cloud NG Armory",
+  "location": {
+    "lat": 45.5648760428,
+    "lng": -94.1774187425
+  }
+}, {
+  "name": "NG Baton Rouge AFRC",
+  "location": {
+    "lat": 30.3578247818,
+    "lng": -91.1408358591
+  }
+}, {
+  "name": "NG Camp Grafton",
+  "location": {
+    "lat": 47.7711996949,
+    "lng": -98.7161638156
+  }
+}, {
+  "name": "NG Spring City Readiness Center",
+  "location": {
+    "lat": 40.1899589793,
+    "lng": -75.5558107769
+  }
+}, {
+  "name": "NG MTA Gunpowder Military Reservation",
+  "location": {
+    "lat": 39.4323773898,
+    "lng": -76.5050135446
+  }
+}, {
+  "name": "NG Sioux Falls Benson Rd Complex",
+  "location": {
+    "lat": 43.5892992575,
+    "lng": -96.6754244833
+  }
+}, {
+  "name": "Pearl City",
+  "location": {
+    "lat": 21.3813432543,
+    "lng": -157.974037315
+  }
+}, {
+  "name": "Marbo",
+  "location": {
+    "lat": 13.4890012867,
+    "lng": 144.86534429
+  }
+}, {
+  "name": "Edwards AFB",
+  "location": {
+    "lat": 34.8902967213,
+    "lng": -117.848771224
+  }
+}, {
+  "name": "Naval Observatory",
+  "location": {
+    "lat": 38.9214186847,
+    "lng": -77.0670325804
+  }
+}, {
+  "name": "Grant Training Annex",
+  "location": {
+    "lat": 47.2162520667,
+    "lng": -119.310549756
+  }
+}, {
+  "name": "West Point Military Reservation",
+  "location": {
+    "lat": 41.3614873711,
+    "lng": -74.0248942546
+  }
+}, {
+  "name": "US Army Adelphi Laboratory Center",
+  "location": {
+    "lat": 39.0329014118,
+    "lng": -76.9604679336
+  }
+}, {
+  "name": "Fort Detrick Glen Haven Annex",
+  "location": {
+    "lat": 39.0334336403,
+    "lng": -77.0417682376
+  }
+}, {
+  "name": "Fort Wainwright",
+  "location": {
+    "lat": 64.5447194846,
+    "lng": -147.708445641
+  }
+}, {
+  "name": "Savanna Depot Act",
+  "location": {
+    "lat": 42.2279934146,
+    "lng": -90.3368472542
+  }
+}, {
+  "name": "Cornhusker AAP",
+  "location": {
+    "lat": 40.9388913146,
+    "lng": -98.5167759592
+  }
+}, {
+  "name": "MCB Camp Lejeune (West Site)",
+  "location": {
+    "lat": 34.621693842,
+    "lng": -77.4992450772
+  }
+}, {
+  "name": "MCB Hawaii (Kaneohe Bay)",
+  "location": {
+    "lat": 21.4453917613,
+    "lng": -157.751594777
+  }
+}, {
+  "name": "Dam Neck",
+  "location": {
+    "lat": 36.7885299152,
+    "lng": -75.9653974721
+  }
+}, {
+  "name": "ALF Fentress Chesapke",
+  "location": {
+    "lat": 36.6942700107,
+    "lng": -76.1329722649
+  }
+}, {
+  "name": "NSWC Carderock",
+  "location": {
+    "lat": 38.9749001795,
+    "lng": -77.192328114
+  }
+}, {
+  "name": "Barrigada - NSA Andersen",
+  "location": {
+    "lat": 13.4563838661,
+    "lng": 144.812569881
+  }
+}, {
+  "name": "Manchester",
+  "location": {
+    "lat": 47.5661084246,
+    "lng": -122.545637948
+  }
+}, {
+  "name": "Los Angeles Air Force Annex No4",
+  "location": {
+    "lat": 33.858772816,
+    "lng": -118.235754982
+  }
+}, {
+  "name": "Ellsworth AFB",
+  "location": {
+    "lat": 44.1579766168,
+    "lng": -103.094346705
+  }
+}, {
+  "name": "Boise Air Terminal",
+  "location": {
+    "lat": 43.5568774906,
+    "lng": -116.222478963
+  }
+}, {
+  "name": "Hancock Field",
+  "location": {
+    "lat": 43.1027478687,
+    "lng": -76.1033314086
+  }
+}, {
+  "name": "Montgomery Regional Airport ANGB",
+  "location": {
+    "lat": 32.3048358496,
+    "lng": -86.4015268137
+  }
+}, {
+  "name": "Sky Harbor IAP",
+  "location": {
+    "lat": 33.4258330523,
+    "lng": -112.011682902
+  }
+}, {
+  "name": "Dix",
+  "location": {
+    "lat": 40.0037812107,
+    "lng": -74.523842926
+  }
+}, {
+  "name": "Capital Airport",
+  "location": {
+    "lat": 39.8478937488,
+    "lng": -89.6677190978
+  }
+}, {
+  "name": "NG Orchard Mates Boise",
+  "location": {
+    "lat": 43.2971106582,
+    "lng": -116.059842836
+  }
+}, {
+  "name": "NG Bend Cotef",
+  "location": {
+    "lat": 44.0257924999,
+    "lng": -121.128279438
+  }
+}, {
+  "name": "NG VTS Milan",
+  "location": {
+    "lat": 35.885569159,
+    "lng": -88.6648080701
+  }
+}, {
+  "name": "NG Florence Military Reservation",
+  "location": {
+    "lat": 33.0987644874,
+    "lng": -111.356808928
+  }
+}, {
+  "name": "NG Cambridge Springs",
+  "location": {
+    "lat": 41.7941540406,
+    "lng": -80.0478951
+  }
+}, {
+  "name": "NG Camp Williams Tomah MTA",
+  "location": {
+    "lat": 43.928022567,
+    "lng": -90.269506769
+  }
+}, {
+  "name": "ALF Waldron",
+  "location": {
+    "lat": 27.634308153,
+    "lng": -97.3138397664
+  }
+}, {
+  "name": "NAS Key West FL",
+  "location": {
+    "lat": 24.5749669839,
+    "lng": -81.69039869
+  }
+}, {
+  "name": "Holloman AFB",
+  "location": {
+    "lat": 32.9177764497,
+    "lng": -106.133624679
+  }
+}, {
+  "name": "Bayview Idaho",
+  "location": {
+    "lat": 47.9773954717,
+    "lng": -116.561529071
+  }
+}, {
+  "name": "Letterkenny Army Depot",
+  "location": {
+    "lat": 40.0203299941,
+    "lng": -77.7018175626
+  }
+}, {
+  "name": "Pinon Canyon",
+  "location": {
+    "lat": 37.4975893419,
+    "lng": -103.918064485
+  }
+}, {
+  "name": "Skelly Stagefield AL",
+  "location": {
+    "lat": 31.2857344505,
+    "lng": -86.12984115
+  }
+}, {
+  "name": "Tripler Army Medical Center",
+  "location": {
+    "lat": 21.3619820362,
+    "lng": -157.889639813
+  }
+}, {
+  "name": "Oak Grove",
+  "location": {
+    "lat": 35.0231361057,
+    "lng": -77.2587195143
+  }
+}, {
+  "name": "JNTEXPBASE Little Creek FS VA",
+  "location": {
+    "lat": 36.9168246358,
+    "lng": -76.161868495
+  }
+}, {
+  "name": "NAVMEDCEN Portsmouth VA",
+  "location": {
+    "lat": 36.8459831027,
+    "lng": -76.3077533755
+  }
+}, {
+  "name": "NAVSUPPACT Bethesda MD",
+  "location": {
+    "lat": 39.0019657147,
+    "lng": -77.090338965
+  }
+}, {
+  "name": "Kirtland",
+  "location": {
+    "lat": 34.9977382052,
+    "lng": -106.481957879
+  }
+}, {
+  "name": "Travis Annex  2",
+  "location": {
+    "lat": 38.3255053712,
+    "lng": -121.923584762
+  }
+}, {
+  "name": "Luis Munoz Marin IAP",
+  "location": {
+    "lat": 18.4435232394,
+    "lng": -65.9923537212
+  }
+}, {
+  "name": "Camp Bullis Training Annex",
+  "location": {
+    "lat": 29.6910786143,
+    "lng": -98.561663659
+  }
+}, {
+  "name": "NG Duluth NG Armory",
+  "location": {
+    "lat": 46.8337009674,
+    "lng": -92.1588343868
+  }
+}, {
+  "name": "NG General Lucius D Clay National Guard Center",
+  "location": {
+    "lat": 33.9136159677,
+    "lng": -84.5290173714
+  }
+}, {
+  "name": "NG Camp Sherman Joint Training Center",
+  "location": {
+    "lat": 39.3556342155,
+    "lng": -82.9509547956
+  }
+}, {
+  "name": "NG McNary Field Salem AASF",
+  "location": {
+    "lat": 44.9117374881,
+    "lng": -122.99982156
+  }
+}, {
+  "name": "NG Jackson County AFRC",
+  "location": {
+    "lat": 38.893477547,
+    "lng": -81.829845717
+  }
+}, {
+  "name": "NG Havre De Grace Military Res",
+  "location": {
+    "lat": 39.53266265,
+    "lng": -76.1041166001
+  }
+}, {
+  "name": "Target B-19",
+  "location": {
+    "lat": 39.1711271565,
+    "lng": -118.636032149
+  }
+}, {
+  "name": "Port Hueneme",
+  "location": {
+    "lat": 34.1629044874,
+    "lng": -119.208411478
+  }
+}, {
+  "name": "NAS Jacksonville FL",
+  "location": {
+    "lat": 30.2190944719,
+    "lng": -81.6862419066
+  }
+}, {
+  "name": "Dixie Target Range",
+  "location": {
+    "lat": 28.0974161603,
+    "lng": -98.7283712572
+  }
+}, {
+  "name": "Cape Canaveral Air Force Station",
+  "location": {
+    "lat": 28.4788213467,
+    "lng": -80.5711268805
+  }
+}, {
+  "name": "Solomons Island MD",
+  "location": {
+    "lat": 38.3364781719,
+    "lng": -76.4713794751
+  }
+}, {
+  "name": "Pine Bluff Arsenal",
+  "location": {
+    "lat": 34.3261504449,
+    "lng": -92.0867021569
+  }
+}, {
+  "name": "Holston AAP",
+  "location": {
+    "lat": 36.5255506694,
+    "lng": -82.6442165413
+  }
+}, {
+  "name": "Fort Leavenworth",
+  "location": {
+    "lat": 39.3641697603,
+    "lng": -94.9182512152
+  }
+}, {
+  "name": "England Authority",
+  "location": {
+    "lat": 31.3346732622,
+    "lng": -92.5403418877
+  }
+}, {
+  "name": "Makua Mil Reserve",
+  "location": {
+    "lat": 21.5302283589,
+    "lng": -158.206472387
+  }
+}, {
+  "name": "Blossom Point Research Facility",
+  "location": {
+    "lat": 38.421819049,
+    "lng": -77.0922516528
+  }
+}, {
+  "name": "MCRD San Diego",
+  "location": {
+    "lat": 32.7401689479,
+    "lng": -117.197685657
+  }
+}, {
+  "name": "Barry Goldwater Range",
+  "location": {
+    "lat": 32.4982754369,
+    "lng": -114.083222822
+  }
+}, {
+  "name": "NNSY South Gate",
+  "location": {
+    "lat": 36.8036988938,
+    "lng": -76.295425493
+  }
+}, {
+  "name": "Fort Sheridan",
+  "location": {
+    "lat": 42.2096141173,
+    "lng": -87.8061179586
+  }
+}, {
+  "name": "Naval Station Great Lakes IL",
+  "location": {
+    "lat": 42.3134486946,
+    "lng": -87.837631497
+  }
+}, {
+  "name": "NAS Kingsville TX",
+  "location": {
+    "lat": 27.4989619255,
+    "lng": -97.8128477123
+  }
+}, {
+  "name": "Davis Monthan AFB",
+  "location": {
+    "lat": 32.1608016672,
+    "lng": -110.848722373
+  }
+}, {
+  "name": "Fairchild AFB",
+  "location": {
+    "lat": 47.6186626303,
+    "lng": -117.648384327
+  }
+}, {
+  "name": "North Air Force Auxiliary Field",
+  "location": {
+    "lat": 33.6025364855,
+    "lng": -81.0785389952
+  }
+}, {
+  "name": "Altus AFB",
+  "location": {
+    "lat": 34.6637724659,
+    "lng": -99.2745536786
+  }
+}, {
+  "name": "Channel Islands ANG Station",
+  "location": {
+    "lat": 34.1387961484,
+    "lng": -119.111103634
+  }
+}, {
+  "name": "Tucson IAP",
+  "location": {
+    "lat": 32.131404054,
+    "lng": -110.949250831
+  }
+}, {
+  "name": "Barnes Map (ANG)",
+  "location": {
+    "lat": 42.1693653615,
+    "lng": -72.7179961808
+  }
+}, {
+  "name": "Kelly Field Annex",
+  "location": {
+    "lat": 29.3803737409,
+    "lng": -98.5860052814
+  }
+}, {
+  "name": "NG Camp Minden Training Site",
+  "location": {
+    "lat": 32.558920284,
+    "lng": -93.3940534723
+  }
+}, {
+  "name": "NG Camp Bowie (State)",
+  "location": {
+    "lat": 31.6398553673,
+    "lng": -98.9354829808
+  }
+}, {
+  "name": "NG Cumming",
+  "location": {
+    "lat": 34.2243340362,
+    "lng": -84.113051593
+  }
+}, {
+  "name": "NG WH Ford Regional Tng Ctr",
+  "location": {
+    "lat": 37.2776632835,
+    "lng": -87.2010420465
+  }
+}, {
+  "name": "Target B-20",
+  "location": {
+    "lat": 39.8842893913,
+    "lng": -118.362806519
+  }
+}, {
+  "name": "Fleming Key Magazine",
+  "location": {
+    "lat": 24.5789198946,
+    "lng": -81.7967315291
+  }
+}, {
+  "name": "Truman Annex",
+  "location": {
+    "lat": 24.5465408051,
+    "lng": -81.8046496008
+  }
+}, {
+  "name": "NMIC Suitland",
+  "location": {
+    "lat": 38.8488448496,
+    "lng": -76.9366921526
+  }
+}, {
+  "name": "Camp Michael Monsoor",
+  "location": {
+    "lat": 32.6737007771,
+    "lng": -116.443716929
+  }
+}, {
+  "name": "NAVPMOSSP Magna Utah",
+  "location": {
+    "lat": 40.6783887021,
+    "lng": -112.073304281
+  }
+}, {
+  "name": "Tumon",
+  "location": {
+    "lat": 13.5097297889,
+    "lng": 144.809944738
+  }
+}, {
+  "name": "Kalaeloa",
+  "location": {
+    "lat": 21.3205176793,
+    "lng": -158.057471732
+  }
+}, {
+  "name": "Keyport NUWC",
+  "location": {
+    "lat": 47.6974412235,
+    "lng": -122.621247466
+  }
+}, {
+  "name": "Redstone Arsenal",
+  "location": {
+    "lat": 34.6328507804,
+    "lng": -86.6571701025
+  }
+}, {
+  "name": "Fort Huachuca",
+  "location": {
+    "lat": 31.567419034,
+    "lng": -110.329649033
+  }
+}, {
+  "name": "Cairns Basefield AL",
+  "location": {
+    "lat": 31.2786073023,
+    "lng": -85.7149945144
+  }
+}, {
+  "name": "Runkle Stagefield AL",
+  "location": {
+    "lat": 31.3403853788,
+    "lng": -86.091887871
+  }
+}, {
+  "name": "Aliamanu Military Reservation",
+  "location": {
+    "lat": 21.3618785619,
+    "lng": -157.911388913
+  }
+}, {
+  "name": "Dillingham Mil Res",
+  "location": {
+    "lat": 21.5762316637,
+    "lng": -158.198775803
+  }
+}, {
+  "name": "Def Gen Supply Center",
+  "location": {
+    "lat": 37.4187717327,
+    "lng": -77.447528995
+  }
+}, {
+  "name": "Fort Benning AL",
+  "location": {
+    "lat": 32.2838712304,
+    "lng": -84.9548431105
+  }
+}, {
+  "name": "TBR Main",
+  "location": {
+    "lat": 31.5484913702,
+    "lng": -81.6199877022
+  }
+}, {
+  "name": "Syracuse MCRC",
+  "location": {
+    "lat": 43.1001011135,
+    "lng": -76.1210991111
+  }
+}, {
+  "name": "Tinker Support Annex",
+  "location": {
+    "lat": 35.4036965841,
+    "lng": -97.3603027818
+  }
+}, {
+  "name": "Fort Fisher Recreation Site",
+  "location": {
+    "lat": 33.9811703229,
+    "lng": -77.9164586721
+  }
+}, {
+  "name": "Barksdale AFB",
+  "location": {
+    "lat": 32.5002809582,
+    "lng": -93.5999413403
+  }
+}, {
+  "name": "Cannon AFB",
+  "location": {
+    "lat": 34.3840149372,
+    "lng": -103.321106281
+  }
+}, {
+  "name": "Cannon AFB Site 2",
+  "location": {
+    "lat": 34.4091917117,
+    "lng": -103.328244295
+  }
+}, {
+  "name": "Luke Air Force Auxiliary Field No 1",
+  "location": {
+    "lat": 33.7159742765,
+    "lng": -112.527923384
+  }
+}, {
+  "name": "Gulfport-Biloxi Regional Airport (ANG)",
+  "location": {
+    "lat": 30.4107264037,
+    "lng": -89.0612086467
+  }
+}, {
+  "name": "NG Auburn Training Site",
+  "location": {
+    "lat": 44.0862933486,
+    "lng": -70.2827983551
+  }
+}, {
+  "name": "NG Bangor Training Site",
+  "location": {
+    "lat": 44.8095482939,
+    "lng": -68.8333959892
+  }
+}, {
+  "name": "NG Santa Fe - Onate Complex TS",
+  "location": {
+    "lat": 35.5697139671,
+    "lng": -106.081041964
+  }
+}, {
+  "name": "NG TS BBTS",
+  "location": {
+    "lat": 38.5475743328,
+    "lng": -75.0633012841
+  }
+}, {
+  "name": "NG Camp Murray",
+  "location": {
+    "lat": 47.1167164937,
+    "lng": -122.56884003
+  }
+}, {
+  "name": "NG Williamstown",
+  "location": {
+    "lat": 39.3531258872,
+    "lng": -81.4421100584
+  }
+}, {
+  "name": "NG Camp Mabry",
+  "location": {
+    "lat": 30.3186106075,
+    "lng": -97.7615720588
+  }
+}, {
+  "name": "NG Mitchell Complex",
+  "location": {
+    "lat": 43.7618744147,
+    "lng": -98.0438934226
+  }
+}, {
+  "name": "Imperial Beach NOLF",
+  "location": {
+    "lat": 32.5624031522,
+    "lng": -117.112009859
+  }
+}, {
+  "name": "NAS Lemoore CA",
+  "location": {
+    "lat": 36.3191796478,
+    "lng": -119.93398605
+  }
+}, {
+  "name": "Harbor Drive",
+  "location": {
+    "lat": 32.7246963035,
+    "lng": -117.218431918
+  }
+}, {
+  "name": "NGA Arnold Site",
+  "location": {
+    "lat": 38.4161872655,
+    "lng": -90.3986079959
+  }
+}, {
+  "name": "Nellis AFB",
+  "location": {
+    "lat": 36.2692051709,
+    "lng": -114.98483901
+  }
+}, {
+  "name": "Naval Base Kitsap Bremerton WA",
+  "location": {
+    "lat": 47.5555933853,
+    "lng": -122.652356505
+  }
+}, {
+  "name": "Fort Sill",
+  "location": {
+    "lat": 34.6822588176,
+    "lng": -98.4834145201
+  }
+}, {
+  "name": "Fort Benning GA",
+  "location": {
+    "lat": 32.3999496616,
+    "lng": -84.8006217989
+  }
+}, {
+  "name": "Red River Army Depot",
+  "location": {
+    "lat": 33.4337413314,
+    "lng": -94.3556715243
+  }
+}, {
+  "name": "Fort Monmouth Main Post",
+  "location": {
+    "lat": 40.3070528778,
+    "lng": -74.0583806661
+  }
+}, {
+  "name": "Destin Moreno Point",
+  "location": {
+    "lat": 30.4110996281,
+    "lng": -86.4989034217
+  }
+}, {
+  "name": "MCSF Blount Island (FL)",
+  "location": {
+    "lat": 30.4013274303,
+    "lng": -81.5250231825
+  }
+}, {
+  "name": "Brooklyn NY",
+  "location": {
+    "lat": 40.5814831188,
+    "lng": -73.8816296342
+  }
+}, {
+  "name": "Northwest Chesapeake VA",
+  "location": {
+    "lat": 36.5590985515,
+    "lng": -76.2674854841
+  }
+}, {
+  "name": "Naval Research Lab",
+  "location": {
+    "lat": 38.8240416139,
+    "lng": -77.0233529625
+  }
+}, {
+  "name": "FLC Fuel Depot Heckscher",
+  "location": {
+    "lat": 30.4001829676,
+    "lng": -81.6274334623
+  }
+}, {
+  "name": "OLF Bravo",
+  "location": {
+    "lat": 32.7964731631,
+    "lng": -88.8318661019
+  }
+}, {
+  "name": "Eglin Air Force Auxiliary Field 6",
+  "location": {
+    "lat": 30.6317649852,
+    "lng": -86.7409720552
+  }
+}, {
+  "name": "Fort Eustis",
+  "location": {
+    "lat": 37.1322038995,
+    "lng": -76.5886922923
+  }
+}, {
+  "name": "Pittsburgh IAP (ARS)",
+  "location": {
+    "lat": 40.4935734315,
+    "lng": -80.2110502515
+  }
+}, {
+  "name": "NG MTA Camp Clark Nevada",
+  "location": {
+    "lat": 37.8202969363,
+    "lng": -94.2914729598
+  }
+}, {
+  "name": "NG Arden Hills Army Training Site",
+  "location": {
+    "lat": 45.0948962078,
+    "lng": -93.161098097
+  }
+}, {
+  "name": "NOLF Silverhill",
+  "location": {
+    "lat": 30.5619554651,
+    "lng": -87.809337776
+  }
+}, {
+  "name": "San Clemente IS NALF",
+  "location": {
+    "lat": 32.9001520087,
+    "lng": -118.485233843
+  }
+}, {
+  "name": "Long Beach Fuel Complex",
+  "location": {
+    "lat": 33.7420222138,
+    "lng": -118.233407436
+  }
+}, {
+  "name": "Shaw AFB",
+  "location": {
+    "lat": 33.9748590703,
+    "lng": -80.4704194269
+  }
+}, {
+  "name": "Fort Myer",
+  "location": {
+    "lat": 38.8787064404,
+    "lng": -77.0789885906
+  }
+}, {
+  "name": "Stewart Annex",
+  "location": {
+    "lat": 41.492587342,
+    "lng": -74.0943357501
+  }
+}, {
+  "name": "Joliet USARC/JTA",
+  "location": {
+    "lat": 41.4243572171,
+    "lng": -88.1425840657
+  }
+}, {
+  "name": "Fort Stewart",
+  "location": {
+    "lat": 31.9935650057,
+    "lng": -81.6167723365
+  }
+}, {
+  "name": "OLF Bronson",
+  "location": {
+    "lat": 30.3837530139,
+    "lng": -87.4141104616
+  }
+}, {
+  "name": "Woolmarket (De Soto)",
+  "location": {
+    "lat": 30.5417021232,
+    "lng": -88.9718210942
+  }
+}, {
+  "name": "Hanscom AFB",
+  "location": {
+    "lat": 42.4583211521,
+    "lng": -71.2772680295
+  }
+}, {
+  "name": "Tinker Aerospace Complex",
+  "location": {
+    "lat": 35.3943672204,
+    "lng": -97.3971588174
+  }
+}, {
+  "name": "USAF Academy Auxiliary Airfield",
+  "location": {
+    "lat": 38.7602885783,
+    "lng": -104.301342147
+  }
+}, {
+  "name": "Joint Base Charleston North Yard",
+  "location": {
+    "lat": 32.8751277796,
+    "lng": -79.9700778332
+  }
+}, {
+  "name": "Charlotte/Douglas IAP",
+  "location": {
+    "lat": 35.216336113,
+    "lng": -80.9298620418
+  }
+}, {
+  "name": "NG Springfield (TS Cp Lincoln)",
+  "location": {
+    "lat": 39.8233702226,
+    "lng": -89.6708742707
+  }
+}, {
+  "name": "NG Camp Bowie - Musgrave (Fed)",
+  "location": {
+    "lat": 31.6129210957,
+    "lng": -98.9077016689
+  }
+}, {
+  "name": "NG Camp Maxey",
+  "location": {
+    "lat": 33.7990840775,
+    "lng": -95.5602893853
+  }
+}, {
+  "name": "NG MTA-L Camp Williams",
+  "location": {
+    "lat": 40.427366421,
+    "lng": -112.018173908
+  }
+}, {
+  "name": "NG AASF Byrd Field",
+  "location": {
+    "lat": 37.4941399873,
+    "lng": -77.3126601203
+  }
+}, {
+  "name": "NG Ft Ruger",
+  "location": {
+    "lat": 21.2628048817,
+    "lng": -157.804556826
+  }
+}, {
+  "name": "Tanguisson Point",
+  "location": {
+    "lat": 13.5415720981,
+    "lng": 144.808519807
+  }
+}, {
+  "name": "Dryside",
+  "location": {
+    "lat": 32.6848793364,
+    "lng": -117.119468049
+  }
+}, {
+  "name": "National City",
+  "location": {
+    "lat": 32.6720920869,
+    "lng": -117.113270451
+  }
+}, {
+  "name": "NAVSUPPACT Monterey CA",
+  "location": {
+    "lat": 36.5973431503,
+    "lng": -121.873405389
+  }
+}, {
+  "name": "Pumpkin Neck",
+  "location": {
+    "lat": 38.3019872977,
+    "lng": -77.0421948817
+  }
+}, {
+  "name": "Los Angeles AFB",
+  "location": {
+    "lat": 33.9189436972,
+    "lng": -118.381099896
+  }
+}, {
+  "name": "NAVSUPPACT Mechanicsburg PA",
+  "location": {
+    "lat": 40.2274955202,
+    "lng": -76.9864595933
+  }
+}, {
+  "name": "King Salmon Airport",
+  "location": {
+    "lat": 58.6913501355,
+    "lng": -156.662974128
+  }
+}, {
+  "name": "Goldberg Stagefield AL",
+  "location": {
+    "lat": 31.4151605009,
+    "lng": -85.4634025079
+  }
+}, {
+  "name": "Wheeler Army Airfield",
+  "location": {
+    "lat": 21.4754122511,
+    "lng": -158.035536784
+  }
+}, {
+  "name": "Milan AAP",
+  "location": {
+    "lat": 35.8738381813,
+    "lng": -88.7061284354
+  }
+}, {
+  "name": "Longhorn AAP",
+  "location": {
+    "lat": 32.6750303069,
+    "lng": -94.133877757
+  }
+}, {
+  "name": "Camp Frank D Merrill",
+  "location": {
+    "lat": 34.7104639208,
+    "lng": -84.1658763605
+  }
+}, {
+  "name": "Allegany Ballistics Lab",
+  "location": {
+    "lat": 39.5492530381,
+    "lng": -78.8457345414
+  }
+}, {
+  "name": "Nimitz Hill",
+  "location": {
+    "lat": 13.4658622049,
+    "lng": 144.723204156
+  }
+}, {
+  "name": "White Bluff",
+  "location": {
+    "lat": 47.7027134391,
+    "lng": -117.577508532
+  }
+}, {
+  "name": "The Barry M Goldwater Air Force Range",
+  "location": {
+    "lat": 32.64061507,
+    "lng": -113.055868336
+  }
+}, {
+  "name": "NG Hammond Airport",
+  "location": {
+    "lat": 30.5230982285,
+    "lng": -90.412182537
+  }
+}, {
+  "name": "NG MTA Clarks Hill Reservation",
+  "location": {
+    "lat": 33.7944394521,
+    "lng": -82.2777706272
+  }
+}, {
+  "name": "NG Lane County AFRC FMS 5",
+  "location": {
+    "lat": 44.065667942,
+    "lng": -122.977783398
+  }
+}, {
+  "name": "NG Bog Brook Training Site",
+  "location": {
+    "lat": 44.3965120263,
+    "lng": -70.9365409929
+  }
+}, {
+  "name": "San Pedro Fuel Depot",
+  "location": {
+    "lat": 33.7730532491,
+    "lng": -118.301027333
+  }
+}, {
+  "name": "Target 101 Shade Tree",
+  "location": {
+    "lat": 32.9489566811,
+    "lng": -115.750656601
+  }
+}, {
+  "name": "Ramey AF Solar Observatory Research Site",
+  "location": {
+    "lat": 18.5094327133,
+    "lng": -67.0991288097
+  }
+}, {
+  "name": "Nellis Air Force Range",
+  "location": {
+    "lat": 37.3063972082,
+    "lng": -116.198549994
+  }
+}, {
+  "name": "Sierra Army Depot",
+  "location": {
+    "lat": 40.209029472,
+    "lng": -120.129103152
+  }
+}, {
+  "name": "Blue Grass Army Depot",
+  "location": {
+    "lat": 37.6989542636,
+    "lng": -84.2174546163
+  }
+}, {
+  "name": "Fort Bragg",
+  "location": {
+    "lat": 35.1362367404,
+    "lng": -79.143965339
+  }
+}, {
+  "name": "Seward Recreation Area",
+  "location": {
+    "lat": 60.1333143544,
+    "lng": -149.433125482
+  }
+}, {
+  "name": "Badger AAP",
+  "location": {
+    "lat": 43.3515729211,
+    "lng": -89.7323852075
+  }
+}, {
+  "name": "Fort Gillem",
+  "location": {
+    "lat": 33.6187655232,
+    "lng": -84.3426139288
+  }
+}, {
+  "name": "Fallbrook California",
+  "location": {
+    "lat": 33.3588858097,
+    "lng": -117.283210767
+  }
+}, {
+  "name": "NAVSUBASE New London CT",
+  "location": {
+    "lat": 41.3995458505,
+    "lng": -72.0861454073
+  }
+}, {
+  "name": "NAVBASE Guam, Naval Magazine",
+  "location": {
+    "lat": 13.3879035827,
+    "lng": 144.685202104
+  }
+}, {
+  "name": "CNI NAVMAG Indian Island",
+  "location": {
+    "lat": 48.0532351447,
+    "lng": -122.726218709
+  }
+}, {
+  "name": "Arbuckle Airfield",
+  "location": {
+    "lat": 27.6521821531,
+    "lng": -81.3476629744
+  }
+}, {
+  "name": "Dare County Range",
+  "location": {
+    "lat": 35.7144803327,
+    "lng": -75.8785604539
+  }
+}, {
+  "name": "Melrose Air Force Range",
+  "location": {
+    "lat": 34.2860722856,
+    "lng": -103.77946735
+  }
+}, {
+  "name": "Reno Tahoe IAP",
+  "location": {
+    "lat": 39.5001625435,
+    "lng": -119.775127354
+  }
+}, {
+  "name": "Rosecrans MAP (139AG)",
+  "location": {
+    "lat": 39.766575372,
+    "lng": -94.9019988102
+  }
+}, {
+  "name": "Medical Center Annex",
+  "location": {
+    "lat": 29.4600614664,
+    "lng": -98.4165527202
+  }
+}, {
+  "name": "NG Bismarck RJB Complex",
+  "location": {
+    "lat": 46.8295477141,
+    "lng": -100.719944017
+  }
+}, {
+  "name": "NG Esler Field",
+  "location": {
+    "lat": 31.3977339391,
+    "lng": -92.2972827063
+  }
+}, {
+  "name": "NG RW Shepherd Hope Hull",
+  "location": {
+    "lat": 32.2871055099,
+    "lng": -86.3951588099
+  }
+}, {
+  "name": "NG SMD",
+  "location": {
+    "lat": 32.4058257333,
+    "lng": -86.2593591085
+  }
+}, {
+  "name": "NG MTA Camp Curtis Guil",
+  "location": {
+    "lat": 42.5446993001,
+    "lng": -71.0726606178
+  }
+}, {
+  "name": "NG AASF02 Birmingham",
+  "location": {
+    "lat": 33.571050216,
+    "lng": -86.7501493506
+  }
+}, {
+  "name": "NG Training Site",
+  "location": {
+    "lat": 43.2778096245,
+    "lng": -71.1222205603
+  }
+}, {
+  "name": "NG Las Cruces",
+  "location": {
+    "lat": 32.276155346,
+    "lng": -106.935192899
+  }
+}, {
+  "name": "NG Lincoln AASF/Readiness Center",
+  "location": {
+    "lat": 40.8373288455,
+    "lng": -96.7549863317
+  }
+}, {
+  "name": "NG Lexington AASF No 1",
+  "location": {
+    "lat": 35.0265158472,
+    "lng": -97.2305536823
+  }
+}, {
+  "name": "CNIC PMRF Barking Sands HI",
+  "location": {
+    "lat": 22.0626375204,
+    "lng": -159.794099033
+  }
+}, {
+  "name": "Ford Island",
+  "location": {
+    "lat": 21.3635799432,
+    "lng": -157.960293901
+  }
+}, {
+  "name": "NOLF Holley",
+  "location": {
+    "lat": 30.4250122837,
+    "lng": -86.8928585763
+  }
+}, {
+  "name": "Naval Air Station Patuxent River",
+  "location": {
+    "lat": 38.2810281573,
+    "lng": -76.4210830732
+  }
+}, {
+  "name": "NSF Indian Head",
+  "location": {
+    "lat": 38.5844840562,
+    "lng": -77.1833880777
+  }
+}, {
+  "name": "Tooele Army Depot South",
+  "location": {
+    "lat": 40.2968248498,
+    "lng": -112.342992649
+  }
+}, {
+  "name": "Joliet AAP Elwood",
+  "location": {
+    "lat": 41.3575622757,
+    "lng": -88.0658655188
+  }
+}]

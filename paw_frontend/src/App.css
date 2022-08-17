@@ -1,0 +1,34 @@
+.login {
+    margin: 0;
+    display: flex;
+    place-items: center;
+    min-width: 320px;
+    min-height: 100vh;
+
+}
+
+.space {
+    margin-top: 4rem !important;
+}
+
+.sign-up {
+    color: blue !important;
+}
+
+#messageDiv {
+    color: red;
+}
+
+.new-line {
+    display: block;
+}
+
+body{
+    background-color: rgb(114, 178, 114) !important;
+}
+
+.same-line-div{
+    display: flex;
+}
+
+
