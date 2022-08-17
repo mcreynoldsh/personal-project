@@ -27,7 +27,7 @@ function ProviderDashboard({user, isProvider, logOut,bases}){
             <Row className='space'>
                 <Col></Col>
                 <Col>
-                    {user && <div><h2>{user.first_name}'s Dashboard</h2><a href={`#/user/${user.id}/view`}>View Profile</a></div>}
+                    {user && <div className='text-center'><h2>{user.first_name}'s Dashboard</h2><a href={`#/user/${user.id}/view`}>View Profile</a></div>}
                 </Col>
                 <Col>
                     {user && <CurrentWeather user = {user}/>}
@@ -40,7 +40,7 @@ function ProviderDashboard({user, isProvider, logOut,bases}){
                     {walks && walks.map((walk)=>(<div><h5>{walk.pets.map((pet)=>(<span>{pet} </span>))}</h5>
                                                 <p>Date: {walk.date}</p>
                                                 <p>Time: {walk.time}</p>
-                                                <Button href={`/#/walk/${walk.id}`} variant="outline-info" size='sm'>Begin Walk</Button>
+                                                <Button href={`/#/walk/${walk.id}`} variant="outline-primary" size='sm'>Begin Walk</Button>
                                                 <hr/> 
                                                 </div>))}
                 </Col>

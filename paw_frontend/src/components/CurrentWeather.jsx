@@ -32,7 +32,7 @@ function CurrentWeather(props) {
 
   return (
     <div>
-        {temp && weather && city && <div className='text-center border'> 
+        {temp && weather && city && <div className='text-center border-div'> 
                                         <h5>Weather for today's walks in {city}</h5>
                                         <h5>{temp} with {weather}</h5>
                                     </div>}

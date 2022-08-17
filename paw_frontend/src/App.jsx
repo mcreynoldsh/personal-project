@@ -109,7 +109,7 @@ function App() {
 
 
   return (
-    <div classNAme="background">
+    <div className='bg'>
       <Router>
         <NavBar user={user} checkUser={checkUser} />
         <Routes>
