@@ -68,7 +68,7 @@ function UserDashboard({ user, pets, bases }) {
                     <hr />
                     <h4>Upcoming Walks:</h4>
                     <hr />
-                    {walks && walks.map((walk) => (<div><h5>{walk.pets.map((pet) => (<span>{pet} </span>))}</h5>
+                    {walker && walks && walks.map((walk) => (<div><h5>{walk.pets.map((pet) => (<span>{pet} </span>))}</h5>
                         <p>Date: {walk.date}</p>
                         <p>Time: {walk.time}</p>
                         <p>With {walker.first_name}</p>

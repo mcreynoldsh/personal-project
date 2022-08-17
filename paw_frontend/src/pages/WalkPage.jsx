@@ -28,6 +28,7 @@ function WalkPage(props) {
     return (
         <Container>
             <Row>
+                <Col></Col>
                 <Col>
                     {walk && <div className='space'><h2>Pets: {walk.pets.map((pet) => (<span>{pet} </span>))}</h2>
                         <h4>Owner: {walk.owner}</h4>
@@ -35,7 +36,7 @@ function WalkPage(props) {
                         <h4>Time: {walk.time}</h4>
                     </div>}
                 </Col>
-                <Col>
+                <Col className='space'>
                     {walk && <MyStopwatch setTime={setTime} setEnd={setEnd} />}
                 </Col>
                 <Col></Col>

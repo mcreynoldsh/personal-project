@@ -1,5 +1,5 @@
 import MapContainer from "../components/MapContainer"
-import { Container, Row, Col } from 'react-bootstrap'
+import { Container, Row, Col, Button } from 'react-bootstrap'
 import axios from 'axios';
 import { useNavigate } from 'react-router-dom'
 
@@ -33,6 +33,15 @@ function AddBase({ user }) {
                 <Col>
                     <MapContainer addBase={addBase} />
                 </Col>
+            </Row>
+            <Row className='pt-2'>
+                <Col></Col>
+                <Col>
+                    <Button variant="primary" href='/'>
+                        Dashboard
+                    </Button>
+                </Col>
+                <Col></Col>
             </Row>
         </Container>
     )

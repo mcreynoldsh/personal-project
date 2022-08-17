@@ -33,7 +33,7 @@ function WalkForm(props) {
     }
 
     return (
-        <Form onSubmit={handleSubmit}>
+        <Form className = "space" onSubmit={handleSubmit}>
             <Form.Group className="mb-3" controlId="formWalkLength">
                 <Form.Label>Walk Length:</Form.Label>
                 <Form.Control type="Walk Length" placeholder="Walk Length" />
@@ -42,8 +42,11 @@ function WalkForm(props) {
                 <Form.Label>Notes:</Form.Label>
                 <Form.Control as="textarea" rows={3} />
             </Form.Group>
-            <Form.Control type="text" placeholder={`${walkTime}`} readOnly />
-            <Button variant="primary" type="submit">
+            <Form.Group>
+                <Form.Label>Walk Time:</Form.Label>
+                <Form.Control type="text" placeholder={`${walkTime}`} readOnly />
+            </Form.Group>
+            <Button className = "m-2" variant="primary" type="submit">
                 Submit Walk
             </Button>
         </Form>

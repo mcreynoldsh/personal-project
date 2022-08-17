@@ -26,13 +26,14 @@ function MyStopwatch(props) {
   }
   return (
     <div style={{ textAlign: 'center' }}>
-      <p>Walk Timer</p>
+      <h5>Walk Timer:</h5>
+      <p>hrs:mins:secs</p>
       <div style={{ fontSize: '100px' }}>
         <span>{hours}</span>:<span>{minutes}</span>:<span>{seconds}</span>
       </div>
       <p>{isRunning ? 'Walking' : 'Walking Paused'}</p>
       <Button variant='primary' size='sm' onClick={beginWalk}>Begin Walk</Button>
-      <Button variant='secondary' size='sm' onClick={pause}>Pause Walk</Button>
+      <Button className="m-1" variant='secondary' size='sm' onClick={pause}>Pause Walk</Button>
       <Button variant='danger' size='sm' onClick={endWalk}>End Walk</Button>
     </div>
   );
