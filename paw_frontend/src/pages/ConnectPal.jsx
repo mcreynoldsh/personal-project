@@ -39,8 +39,9 @@ function ConnectPal() {
                                     Rate: {pal.rate} per walk
                                 </Card.Text>
                                 <Card.Text>
-                                    Bases: {pal.bases}
+                                    Bases: 
                                 </Card.Text>
+                                {pal.bases.map((base)=>(<Card.Text>{base}</Card.Text>))}
                                 <Button variant="primary" href={`#/providers/${pal.key}`}>View {pal.first_name}'s Info</Button>
                             </Card.Body>
                         </Card>

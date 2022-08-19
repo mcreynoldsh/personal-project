@@ -30,9 +30,5 @@
     "@vitejs/plugin-react": "^2.0.0",
     "react-error-overlay": "^6.0.9",
     "vite": "^3.0.0"
-  },
-  "resolutions": {
-    "//": "See https://github.com/facebook/create-react-app/issues/11773",
-    "react-error-overlay": "6.0.9"
   }
 }

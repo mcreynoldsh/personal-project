@@ -27,7 +27,7 @@ function ProviderDashboard({ user, bases }) {
             <Row className='space'>
                 <Col></Col>
                 <Col>
-                    {user && <div className='text-center'><h2>{user.first_name}'s Dashboard</h2><a href={`#/user/${user.id}/view`}>View Profile</a></div>}
+                    {user && <div className='text-center'><h2 className="dash-header">{user.first_name}'s Dashboard</h2><a href={`#/user/${user.id}/view`}>View Profile</a></div>}
                 </Col>
                 <Col>
                     {user && <CurrentWeather user={user} />}

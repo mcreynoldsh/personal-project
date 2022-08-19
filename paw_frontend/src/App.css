@@ -54,9 +54,13 @@ html {
 }
 
 .login-pic {
-    width: 587px;
-    height: 395px;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background: url("https://i.pinimg.com/originals/a6/55/70/a65570bd40d125cfe6abacbf85e96b3b.jpg");
+    /* Full height */
+    height: 550px;
+
+    /* Center and scale the image nicely */
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .login-header {
@@ -103,5 +107,10 @@ html {
     /* Black */
     border-radius: 50%;
     animation: spinner 1.5s linear infinite;
+}
+
+.dash-header{
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 2px 2px 4px #3c3737;
 }
 

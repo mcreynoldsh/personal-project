@@ -39,7 +39,7 @@ function ProviderPage({ getUserById }) {
                 <Col>
                     {provider && <div><h3>{provider.first_name} {provider.last_name}</h3>
                         <p>Email: {provider.email}</p>
-                        <p>Bases: {provider.bases[0][1]}</p>
+                        <p>Bases: {provider.bases.map((base)=>(base[1]+ ", "))}</p>
                         <p>Rate: {provider.rate} per walk</p>
                         <p>Bio: {provider.bio}</p></div>}
                 </Col>

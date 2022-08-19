@@ -45,7 +45,7 @@ function NavBar({ user, checkUser }) {
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
-            <Nav.Link onClick={navHome}>Dashboard</Nav.Link>
+            {user && <Nav.Link onClick={navHome}>Dashboard</Nav.Link>}
             {user && <Nav.Link onClick={navProfile}>Profile</Nav.Link>}
             {user && <Nav.Link onClick={logOut}>Log Out</Nav.Link>}
           </Nav>
